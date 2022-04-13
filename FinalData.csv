@@ -1,0 +1,1351 @@
+,Country,Year,Life Expectancy,Total Spending,Spending Type,Amount USD,percent,Numeric code
+0,Australia,2010,81.8,3595.14,Government Spending,2467.574,68.64,36
+1,Australia,2011,82.0,3809.112,Government Spending,2636.42,69.21,36
+2,Australia,2012,82.1,3854.19,Government Spending,2602.958,67.54,36
+3,Australia,2013,82.2,4092.619,Government Spending,2660.645,65.01,36
+4,Australia,2014,82.4,4190.269,Government Spending,2712.428,64.73,36
+5,Australia,2015,82.5,4383.645,Government Spending,2883.332,65.77,36
+6,Australia,2016,82.5,4624.966,Government Spending,3053.117,66.01,36
+7,Australia,2017,82.6,4659.025,Government Spending,3091.112,66.35,36
+8,Australia,2018,82.8,4793.46,Government Spending,3192.682,66.6,36
+9,Australia,2019,83.0,4919.24,Government Spending,3378.808,68.69,36
+10,Australia,2010,81.8,3595.14,Private Voluntary Spending,417.552,11.61,36
+11,Australia,2011,82.0,3809.112,Private Voluntary Spending,442.39,11.61,36
+12,Australia,2012,82.1,3854.19,Private Voluntary Spending,482.925,12.53,36
+13,Australia,2013,82.2,4092.619,Private Voluntary Spending,633.743,15.49,36
+14,Australia,2014,82.4,4190.269,Private Voluntary Spending,664.857,15.87,36
+15,Australia,2015,82.5,4383.645,Private Voluntary Spending,678.752,15.48,36
+16,Australia,2016,82.5,4624.966,Private Voluntary Spending,718.215,15.53,36
+17,Australia,2017,82.6,4659.025,Private Voluntary Spending,728.951,15.65,36
+18,Australia,2018,82.8,4793.46,Private Voluntary Spending,746.528,15.57,36
+19,Australia,2019,83.0,4919.24,Private Voluntary Spending,718.3854652,14.6,36
+20,Australia,2010,81.8,3595.14,Out of Pocket Spending,710.014,19.75,36
+21,Australia,2011,82.0,3809.112,Out of Pocket Spending,730.301,19.17,36
+22,Australia,2012,82.1,3854.19,Out of Pocket Spending,768.307,19.93,36
+23,Australia,2013,82.2,4092.619,Out of Pocket Spending,798.231,19.5,36
+24,Australia,2014,82.4,4190.269,Out of Pocket Spending,812.983,19.4,36
+25,Australia,2015,82.5,4383.645,Out of Pocket Spending,821.562,18.74,36
+26,Australia,2016,82.5,4624.966,Out of Pocket Spending,853.634,18.46,36
+27,Australia,2017,82.6,4659.025,Out of Pocket Spending,838.962,18.01,36
+28,Australia,2018,82.8,4793.46,Out of Pocket Spending,854.25,17.82,36
+29,Australia,2019,83.0,4919.24,Out of Pocket Spending,822.0475348,16.71,36
+30,Austria,2010,80.7,4261.055,Government Spending,3180.755,74.65,40
+31,Austria,2011,81.1,4345.16,Government Spending,3242.116,74.61,40
+32,Austria,2012,81.0,4588.344,Government Spending,3426.503,74.68,40
+33,Austria,2013,81.2,4767.085,Government Spending,3527.938,74.01,40
+34,Austria,2014,81.6,4858.33,Government Spending,3595.678,74.01,40
+35,Austria,2015,81.3,4943.515,Government Spending,3661.079,74.06,40
+36,Austria,2016,81.7,5195.531,Government Spending,3842.678,73.96,40
+37,Austria,2017,81.7,5315.353,Government Spending,3934.347,74.02,40
+38,Austria,2018,81.8,5544.767,Government Spending,4149.584,74.84,40
+39,Austria,2019,82.0,5705.102,Government Spending,4292.127,75.23,40
+40,Austria,2020,81.3,5899.139,Government Spending,4504.329,76.36,40
+41,Austria,2010,80.7,4261.055,Private Voluntary Spending,287.674,6.75,40
+42,Austria,2011,81.1,4345.16,Private Voluntary Spending,288.78,6.65,40
+43,Austria,2012,81.0,4588.344,Private Voluntary Spending,305.01,6.65,40
+44,Austria,2013,81.2,4767.085,Private Voluntary Spending,325.238,6.82,40
+45,Austria,2014,81.6,4858.33,Private Voluntary Spending,334.799,6.89,40
+46,Austria,2015,81.3,4943.515,Private Voluntary Spending,338.664,6.85,40
+47,Austria,2016,81.7,5195.531,Private Voluntary Spending,353.059,6.8,40
+48,Austria,2017,81.7,5315.353,Private Voluntary Spending,362.97,6.83,40
+49,Austria,2018,81.8,5544.767,Private Voluntary Spending,386.695,6.97,40
+50,Austria,2019,82.0,5705.102,Private Voluntary Spending,404.615,7.09,40
+51,Austria,2020,81.3,5899.139,Private Voluntary Spending,399.009,6.76,40
+52,Austria,2010,80.7,4261.055,Out of Pocket Spending,792.625,18.6,40
+53,Austria,2011,81.1,4345.16,Out of Pocket Spending,814.264,18.74,40
+54,Austria,2012,81.0,4588.344,Out of Pocket Spending,856.832,18.67,40
+55,Austria,2013,81.2,4767.085,Out of Pocket Spending,913.91,19.17,40
+56,Austria,2014,81.6,4858.33,Out of Pocket Spending,927.852,19.1,40
+57,Austria,2015,81.3,4943.515,Out of Pocket Spending,943.771,19.09,40
+58,Austria,2016,81.7,5195.531,Out of Pocket Spending,999.794,19.24,40
+59,Austria,2017,81.7,5315.353,Out of Pocket Spending,1018.037,19.15,40
+60,Austria,2018,81.8,5544.767,Out of Pocket Spending,1008.488,18.19,40
+61,Austria,2019,82.0,5705.102,Out of Pocket Spending,1008.36,17.67,40
+62,Austria,2020,81.3,5899.139,Out of Pocket Spending,995.801,16.88,40
+63,Belgium,2010,80.3,3922.228,Government Spending,2983.439,76.06,56
+64,Belgium,2011,80.7,4065.113,Government Spending,3094.86,76.13,56
+65,Belgium,2012,80.5,4243.908,Government Spending,3250.269,76.59,56
+66,Belgium,2013,80.7,4435.931,Government Spending,3377.788,76.15,56
+67,Belgium,2014,81.4,4588.226,Government Spending,3503.37,76.36,56
+68,Belgium,2015,81.1,4654.247,Government Spending,3534.274,75.94,56
+69,Belgium,2016,81.5,5003.902,Government Spending,3865.947,77.26,56
+70,Belgium,2017,81.6,5136.174,Government Spending,3972.833,77.35,56
+71,Belgium,2018,81.7,5358.892,Government Spending,4118.526,76.85,56
+72,Belgium,2019,82.1,5458.401,Government Spending,4192.436,76.81,56
+73,Belgium,2010,80.3,3922.228,Private Voluntary Spending,156.272,3.98,56
+74,Belgium,2011,80.7,4065.113,Private Voluntary Spending,169.983,4.18,56
+75,Belgium,2012,80.5,4243.908,Private Voluntary Spending,172.012,4.05,56
+76,Belgium,2013,80.7,4435.931,Private Voluntary Spending,188.439,4.25,56
+77,Belgium,2014,81.4,4588.226,Private Voluntary Spending,198.164,4.32,56
+78,Belgium,2015,81.1,4654.247,Private Voluntary Spending,219.996,4.73,56
+79,Belgium,2016,81.5,5003.902,Private Voluntary Spending,237.075,4.74,56
+80,Belgium,2017,81.6,5136.174,Private Voluntary Spending,249.001,4.85,56
+81,Belgium,2018,81.7,5358.892,Private Voluntary Spending,263.211,4.91,56
+82,Belgium,2019,82.1,5458.401,Private Voluntary Spending,274.13,5.02,56
+83,Belgium,2010,80.3,3922.228,Out of Pocket Spending,782.517,19.95,56
+84,Belgium,2011,80.7,4065.113,Out of Pocket Spending,800.27,19.69,56
+85,Belgium,2012,80.5,4243.908,Out of Pocket Spending,821.628,19.36,56
+86,Belgium,2013,80.7,4435.931,Out of Pocket Spending,869.704,19.61,56
+87,Belgium,2014,81.4,4588.226,Out of Pocket Spending,886.693,19.33,56
+88,Belgium,2015,81.1,4654.247,Out of Pocket Spending,899.977,19.34,56
+89,Belgium,2016,81.5,5003.902,Out of Pocket Spending,900.88,18.0,56
+90,Belgium,2017,81.6,5136.174,Out of Pocket Spending,914.34,17.8,56
+91,Belgium,2018,81.7,5358.892,Out of Pocket Spending,977.156,18.23,56
+92,Belgium,2019,82.1,5458.401,Out of Pocket Spending,991.835,18.17,56
+93,Brazil,2011,74.0,1178.694,Government Spending,524.649,44.51,76
+94,Brazil,2012,74.2,1222.604,Government Spending,530.384,43.38,76
+95,Brazil,2013,74.5,1299.214,Government Spending,579.221,44.58,76
+96,Brazil,2014,74.8,1376.439,Government Spending,608.007,44.17,76
+97,Brazil,2015,75.0,1360.799,Government Spending,589.658,43.33,76
+98,Brazil,2016,75.3,1339.996,Government Spending,577.555,43.1,76
+99,Brazil,2017,75.5,1391.372,Government Spending,581.556,41.8,76
+100,Brazil,2018,75.7,1454.76,Government Spending,598.973,41.17,76
+101,Brazil,2019,75.9,1513.891,Government Spending,618.814,40.88,76
+102,Brazil,2011,74.0,1178.694,Private Voluntary Spending,308.692,26.19,76
+103,Brazil,2012,74.2,1222.604,Private Voluntary Spending,329.326,26.94,76
+104,Brazil,2013,74.5,1299.214,Private Voluntary Spending,353.913,27.24,76
+105,Brazil,2014,74.8,1376.439,Private Voluntary Spending,380.548,27.65,76
+106,Brazil,2015,75.0,1360.799,Private Voluntary Spending,396.092,29.11,76
+107,Brazil,2016,75.3,1339.996,Private Voluntary Spending,410.223,30.61,76
+108,Brazil,2017,75.5,1391.372,Private Voluntary Spending,427.134,30.7,76
+109,Brazil,2018,75.7,1454.76,Private Voluntary Spending,450.751,30.98,76
+110,Brazil,2019,75.9,1513.891,Private Voluntary Spending,471.447,31.14,76
+111,Brazil,2011,74.0,1178.694,Out of Pocket Spending,345.352,29.3,76
+112,Brazil,2012,74.2,1222.604,Out of Pocket Spending,362.894,29.68,76
+113,Brazil,2013,74.5,1299.214,Out of Pocket Spending,366.08,28.18,76
+114,Brazil,2014,74.8,1376.439,Out of Pocket Spending,387.884,28.18,76
+115,Brazil,2015,75.0,1360.799,Out of Pocket Spending,336.217,24.71,76
+116,Brazil,2016,75.3,1339.996,Out of Pocket Spending,327.235,24.42,76
+117,Brazil,2017,75.5,1391.372,Out of Pocket Spending,340.44,24.47,76
+118,Brazil,2018,75.7,1454.76,Out of Pocket Spending,361.148,24.83,76
+119,Brazil,2019,75.9,1513.891,Out of Pocket Spending,376.654,24.88,76
+120,Canada,2010,81.1,4155.309,Government Spending,2904.77,69.91,124
+121,Canada,2011,81.3,4225.996,Government Spending,2967.3,70.22,124
+122,Canada,2012,81.5,4332.806,Government Spending,3052.23,70.44,124
+123,Canada,2013,81.7,4424.688,Government Spending,3129.009,70.72,124
+124,Canada,2014,81.8,4532.59,Government Spending,3198.392,70.56,124
+125,Canada,2015,81.9,4630.79,Government Spending,3270.639,70.63,124
+126,Canada,2016,82.0,5039.601,Government Spending,3510.241,69.65,124
+127,Canada,2017,82.0,5138.19,Government Spending,3586.306,69.8,124
+128,Canada,2018,82.0,5330.848,Government Spending,3740.63,70.17,124
+129,Canada,2019,82.1,5370.442,Government Spending,3768.303,70.17,124
+130,Canada,2010,81.1,4155.309,Private Voluntary Spending,606.942,14.61,124
+131,Canada,2011,81.3,4225.996,Private Voluntary Spending,622.007,14.72,124
+132,Canada,2012,81.5,4332.806,Private Voluntary Spending,636.248,14.68,124
+133,Canada,2013,81.7,4424.688,Private Voluntary Spending,654.279,14.79,124
+134,Canada,2014,81.8,4532.59,Private Voluntary Spending,672.562,14.84,124
+135,Canada,2015,81.9,4630.79,Private Voluntary Spending,683.557,14.76,124
+136,Canada,2016,82.0,5039.601,Private Voluntary Spending,749.702,14.88,124
+137,Canada,2017,82.0,5138.19,Private Voluntary Spending,766.754,14.92,124
+138,Canada,2018,82.0,5330.848,Private Voluntary Spending,791.169,14.84,124
+139,Canada,2019,82.1,5370.442,Private Voluntary Spending,801.154,14.92,124
+140,Canada,2010,81.1,4155.309,Out of Pocket Spending,643.596,15.49,124
+141,Canada,2011,81.3,4225.996,Out of Pocket Spending,636.69,15.07,124
+142,Canada,2012,81.5,4332.806,Out of Pocket Spending,644.328,14.87,124
+143,Canada,2013,81.7,4424.688,Out of Pocket Spending,641.399,14.5,124
+144,Canada,2014,81.8,4532.59,Out of Pocket Spending,661.636,14.6,124
+145,Canada,2015,81.9,4630.79,Out of Pocket Spending,676.593,14.61,124
+146,Canada,2016,82.0,5039.601,Out of Pocket Spending,779.657,15.47,124
+147,Canada,2017,82.0,5138.19,Out of Pocket Spending,785.129,15.28,124
+148,Canada,2018,82.0,5330.848,Out of Pocket Spending,799.049,14.99,124
+149,Canada,2019,82.1,5370.442,Out of Pocket Spending,800.984,14.91,124
+150,Chile,2010,78.8,1254.254,Government Spending,740.353,59.03,152
+151,Chile,2011,79.0,1355.452,Government Spending,805.926,59.46,152
+152,Chile,2012,79.2,1485.284,Government Spending,891.117,60.0,152
+153,Chile,2013,79.4,1658.112,Government Spending,984.124,59.35,152
+154,Chile,2014,79.6,1754.988,Government Spending,1034.529,58.95,152
+155,Chile,2015,79.8,1833.552,Government Spending,1077.144,58.75,152
+156,Chile,2016,80.0,1941.256,Government Spending,1135.48,58.49,152
+157,Chile,2017,80.2,2119.552,Government Spending,1274.817,60.15,152
+158,Chile,2018,80.4,2131.03,Government Spending,1285.367,60.32,152
+159,Chile,2019,80.6,2291.464,Government Spending,1388.667,60.6,152
+160,Chile,2010,78.8,1254.254,Private Voluntary Spending,81.59,6.51,152
+161,Chile,2011,79.0,1355.452,Private Voluntary Spending,81.905,6.04,152
+162,Chile,2012,79.2,1485.284,Private Voluntary Spending,97.969,6.6,152
+163,Chile,2013,79.4,1658.112,Private Voluntary Spending,116.183,7.01,152
+164,Chile,2014,79.6,1754.988,Private Voluntary Spending,119.047,6.78,152
+165,Chile,2015,79.8,1833.552,Private Voluntary Spending,123.663,6.74,152
+166,Chile,2016,80.0,1941.256,Private Voluntary Spending,131.173,6.76,152
+167,Chile,2017,80.2,2119.552,Private Voluntary Spending,138.816,6.55,152
+168,Chile,2018,80.4,2131.03,Private Voluntary Spending,137.166,6.44,152
+169,Chile,2019,80.6,2291.464,Private Voluntary Spending,151.196,6.6,152
+170,Chile,2010,78.8,1254.254,Out of Pocket Spending,432.312,34.47,152
+171,Chile,2011,79.0,1355.452,Out of Pocket Spending,467.621,34.5,152
+172,Chile,2012,79.2,1485.284,Out of Pocket Spending,496.198,33.41,152
+173,Chile,2013,79.4,1658.112,Out of Pocket Spending,557.761,33.64,152
+174,Chile,2014,79.6,1754.988,Out of Pocket Spending,601.412,34.27,152
+175,Chile,2015,79.8,1833.552,Out of Pocket Spending,632.745,34.51,152
+176,Chile,2016,80.0,1941.256,Out of Pocket Spending,674.602,34.75,152
+177,Chile,2017,80.2,2119.552,Out of Pocket Spending,705.919,33.31,152
+178,Chile,2018,80.4,2131.03,Out of Pocket Spending,708.498,33.25,152
+179,Chile,2019,80.6,2291.464,Out of Pocket Spending,751.601,32.8,152
+180,China,2011,74.8,438.725,Government Spending,235.692,53.72,156
+181,China,2012,75.1,508.815,Government Spending,283.589,55.74,156
+182,China,2013,75.4,561.66,Government Spending,320.429,57.05,156
+183,China,2014,75.7,595.513,Government Spending,347.872,58.42,156
+184,China,2015,76.0,635.149,Government Spending,382.239,60.18,156
+185,China,2016,76.3,668.096,Government Spending,388.173,58.1,156
+186,China,2017,76.6,730.375,Government Spending,413.927,56.67,156
+187,China,2018,76.8,810.845,Government Spending,459.015,56.61,156
+188,China,2011,74.8,438.725,Private Voluntary Spending,26.047,5.94,156
+189,China,2012,75.1,508.815,Private Voluntary Spending,25.308,4.97,156
+190,China,2013,75.4,561.66,Private Voluntary Spending,26.593,4.73,156
+191,China,2014,75.7,595.513,Private Voluntary Spending,29.713,4.99,156
+192,China,2015,76.0,635.149,Private Voluntary Spending,29.986,4.72,156
+193,China,2016,76.3,668.096,Private Voluntary Spending,40.024,5.99,156
+194,China,2017,76.6,730.375,Private Voluntary Spending,53.141,7.28,156
+195,China,2018,76.8,810.845,Private Voluntary Spending,61.944,7.64,156
+196,China,2011,74.8,438.725,Out of Pocket Spending,176.655,40.27,156
+197,China,2012,75.1,508.815,Out of Pocket Spending,199.631,39.23,156
+198,China,2013,75.4,561.66,Out of Pocket Spending,214.327,38.16,156
+199,China,2014,75.7,595.513,Out of Pocket Spending,217.748,36.56,156
+200,China,2015,76.0,635.149,Out of Pocket Spending,222.869,35.09,156
+201,China,2016,76.3,668.096,Out of Pocket Spending,239.888,35.91,156
+202,China,2017,76.6,730.375,Out of Pocket Spending,263.303,36.05,156
+203,China,2018,76.8,810.845,Out of Pocket Spending,289.881,35.75,156
+204,Colombia,2011,74.6,791.69,Government Spending,601.315,75.95,170
+205,Colombia,2012,74.8,838.282,Government Spending,619.278,73.87,170
+206,Colombia,2013,75.1,925.428,Government Spending,699.502,75.59,170
+207,Colombia,2014,75.3,987.342,Government Spending,752.201,76.18,170
+208,Colombia,2015,75.5,1035.02,Government Spending,789.755,76.3,170
+209,Colombia,2016,75.8,1101.628,Government Spending,838.273,76.09,170
+210,Colombia,2017,76.0,1139.442,Government Spending,872.91,76.61,170
+211,Colombia,2018,76.5,1195.354,Government Spending,923.579,77.26,170
+212,Colombia,2019,76.7,1276.209,Government Spending,989.425,77.53,170
+213,Colombia,2011,74.6,791.69,Private Voluntary Spending,69.122,8.73,170
+214,Colombia,2012,74.8,838.282,Private Voluntary Spending,69.299,8.27,170
+215,Colombia,2013,75.1,925.428,Private Voluntary Spending,67.188,7.26,170
+216,Colombia,2014,75.3,987.342,Private Voluntary Spending,74.431,7.54,170
+217,Colombia,2015,75.5,1035.02,Private Voluntary Spending,85.861,8.3,170
+218,Colombia,2016,75.8,1101.628,Private Voluntary Spending,91.366,8.29,170
+219,Colombia,2017,76.0,1139.442,Private Voluntary Spending,91.479,8.03,170
+220,Colombia,2018,76.5,1195.354,Private Voluntary Spending,90.909,7.61,170
+221,Colombia,2019,76.7,1276.209,Private Voluntary Spending,97.178,7.61,170
+222,Colombia,2011,74.6,791.69,Out of Pocket Spending,121.253,15.32,170
+223,Colombia,2012,74.8,838.282,Out of Pocket Spending,149.705,17.86,170
+224,Colombia,2013,75.1,925.428,Out of Pocket Spending,158.738,17.15,170
+225,Colombia,2014,75.3,987.342,Out of Pocket Spending,160.71,16.28,170
+226,Colombia,2015,75.5,1035.02,Out of Pocket Spending,159.404,15.4,170
+227,Colombia,2016,75.8,1101.628,Out of Pocket Spending,171.988,15.61,170
+228,Colombia,2017,76.0,1139.442,Out of Pocket Spending,175.053,15.36,170
+229,Colombia,2018,76.5,1195.354,Out of Pocket Spending,180.866,15.13,170
+230,Colombia,2019,76.7,1276.209,Out of Pocket Spending,189.606,14.86,170
+231,Costa Rica,2011,79.1,1176.161,Government Spending,858.196,72.97,188
+232,Costa Rica,2012,79.4,1218.357,Government Spending,902.847,74.1,188
+233,Costa Rica,2013,79.6,1238.096,Government Spending,927.252,74.89,188
+234,Costa Rica,2014,79.8,1312.446,Government Spending,957.609,72.96,188
+235,Costa Rica,2015,79.9,1382.59,Government Spending,1034.842,74.85,188
+236,Costa Rica,2016,80.1,1413.267,Government Spending,1061.383,75.1,188
+237,Costa Rica,2017,80.2,1445.438,Government Spending,1083.6,74.97,188
+238,Costa Rica,2018,80.4,1548.048,Government Spending,1142.827,73.82,188
+239,Costa Rica,2019,80.5,1599.817,Government Spending,1182.862,73.94,188
+240,Costa Rica,2011,79.1,1176.161,Private Voluntary Spending,17.027,1.45,188
+241,Costa Rica,2012,79.4,1218.357,Private Voluntary Spending,19.448,1.6,188
+242,Costa Rica,2013,79.6,1238.096,Private Voluntary Spending,25.729,2.08,188
+243,Costa Rica,2014,79.8,1312.446,Private Voluntary Spending,37.195,2.83,188
+244,Costa Rica,2015,79.9,1382.59,Private Voluntary Spending,38.059,2.75,188
+245,Costa Rica,2016,80.1,1413.267,Private Voluntary Spending,40.8,2.89,188
+246,Costa Rica,2017,80.2,1445.438,Private Voluntary Spending,54.604,3.78,188
+247,Costa Rica,2018,80.4,1548.048,Private Voluntary Spending,58.204,3.76,188
+248,Costa Rica,2019,80.5,1599.817,Private Voluntary Spending,59.803,3.74,188
+249,Costa Rica,2011,79.1,1176.161,Out of Pocket Spending,300.937,25.59,188
+250,Costa Rica,2012,79.4,1218.357,Out of Pocket Spending,296.062,24.3,188
+251,Costa Rica,2013,79.6,1238.096,Out of Pocket Spending,285.114,23.03,188
+252,Costa Rica,2014,79.8,1312.446,Out of Pocket Spending,317.641,24.2,188
+253,Costa Rica,2015,79.9,1382.59,Out of Pocket Spending,309.688,22.4,188
+254,Costa Rica,2016,80.1,1413.267,Out of Pocket Spending,311.083,22.01,188
+255,Costa Rica,2017,80.2,1445.438,Out of Pocket Spending,307.233,21.26,188
+256,Costa Rica,2018,80.4,1548.048,Out of Pocket Spending,347.017,22.42,188
+257,Costa Rica,2019,80.5,1599.817,Out of Pocket Spending,357.152,22.32,188
+258,Czech Republic,2010,77.7,2002.927,Government Spending,1669.1,83.33,203
+259,Czech Republic,2011,78.0,2041.899,Government Spending,1712.807,83.88,203
+260,Czech Republic,2012,78.2,2090.484,Government Spending,1750.637,83.74,203
+261,Czech Republic,2013,78.3,2448.529,Government Spending,2047.239,83.61,203
+262,Czech Republic,2014,78.9,2564.608,Government Spending,2120.59,82.69,203
+263,Czech Republic,2015,78.7,2544.865,Government Spending,2096.229,82.37,203
+264,Czech Republic,2016,79.1,2670.97,Government Spending,2189.597,81.98,203
+265,Czech Republic,2017,79.1,2873.306,Government Spending,2358.811,82.09,203
+266,Czech Republic,2018,79.1,3174.386,Government Spending,2635.761,83.03,203
+267,Czech Republic,2019,79.3,3417.487,Government Spending,2795.55,81.8,203
+268,Czech Republic,2020,78.3,3803.554,Government Spending,3118.889,82.0,203
+269,Czech Republic,2010,77.7,2002.927,Private Voluntary Spending,28.363,1.42,203
+270,Czech Republic,2011,78.0,2041.899,Private Voluntary Spending,22.369,1.1,203
+271,Czech Republic,2012,78.2,2090.484,Private Voluntary Spending,20.181,0.97,203
+272,Czech Republic,2013,78.3,2448.529,Private Voluntary Spending,68.636,2.8,203
+273,Czech Republic,2014,78.9,2564.608,Private Voluntary Spending,82.87,3.23,203
+274,Czech Republic,2015,78.7,2544.865,Private Voluntary Spending,71.274,2.8,203
+275,Czech Republic,2016,79.1,2670.97,Private Voluntary Spending,80.091,3.0,203
+276,Czech Republic,2017,79.1,2873.306,Private Voluntary Spending,88.985,3.1,203
+277,Czech Republic,2018,79.1,3174.386,Private Voluntary Spending,88.16,2.78,203
+278,Czech Republic,2019,79.3,3417.487,Private Voluntary Spending,138.362,4.05,203
+279,Czech Republic,2020,78.3,3803.554,Private Voluntary Spending,,,203
+280,Czech Republic,2010,77.7,2002.927,Out of Pocket Spending,305.464,15.25,203
+281,Czech Republic,2011,78.0,2041.899,Out of Pocket Spending,306.723,15.02,203
+282,Czech Republic,2012,78.2,2090.484,Out of Pocket Spending,319.666,15.29,203
+283,Czech Republic,2013,78.3,2448.529,Out of Pocket Spending,332.654,13.59,203
+284,Czech Republic,2014,78.9,2564.608,Out of Pocket Spending,361.148,14.08,203
+285,Czech Republic,2015,78.7,2544.865,Out of Pocket Spending,377.363,14.83,203
+286,Czech Republic,2016,79.1,2670.97,Out of Pocket Spending,401.281,15.02,203
+287,Czech Republic,2017,79.1,2873.306,Out of Pocket Spending,425.511,14.81,203
+288,Czech Republic,2018,79.1,3174.386,Out of Pocket Spending,450.464,14.19,203
+289,Czech Republic,2019,79.3,3417.487,Out of Pocket Spending,483.575,14.15,203
+290,Czech Republic,2020,78.3,3803.554,Out of Pocket Spending,,,203
+291,Denmark,2010,79.3,4163.801,Government Spending,3492.585,83.88,208
+292,Denmark,2011,79.9,4169.777,Government Spending,3486.501,83.61,208
+293,Denmark,2012,80.1,4315.128,Government Spending,3623.836,83.98,208
+294,Denmark,2013,80.4,4455.753,Government Spending,3754.47,84.26,208
+295,Denmark,2014,80.8,4536.235,Government Spending,3819.035,84.19,208
+296,Denmark,2015,80.8,4673.314,Government Spending,3934.145,84.18,208
+297,Denmark,2016,80.9,4849.758,Government Spending,4079.733,84.12,208
+298,Denmark,2017,81.2,5083.278,Government Spending,4271.174,84.02,208
+299,Denmark,2018,81.0,5316.577,Government Spending,4459.575,83.88,208
+300,Denmark,2019,81.5,5477.567,Government Spending,4562.246,83.29,208
+301,Denmark,2020,81.6,5849.395,Government Spending,4902.678,83.82,208
+302,Denmark,2010,79.3,4163.801,Private Voluntary Spending,72.224,1.73,208
+303,Denmark,2011,79.9,4169.777,Private Voluntary Spending,76.541,1.84,208
+304,Denmark,2012,80.1,4315.128,Private Voluntary Spending,80.311,1.86,208
+305,Denmark,2013,80.4,4455.753,Private Voluntary Spending,85.94,1.93,208
+306,Denmark,2014,80.8,4536.235,Private Voluntary Spending,92.354,2.04,208
+307,Denmark,2015,80.8,4673.314,Private Voluntary Spending,100.104,2.14,208
+308,Denmark,2016,80.9,4849.758,Private Voluntary Spending,105.008,2.17,208
+309,Denmark,2017,81.2,5083.278,Private Voluntary Spending,113.739,2.24,208
+310,Denmark,2018,81.0,5316.577,Private Voluntary Spending,125.17,2.35,208
+311,Denmark,2019,81.5,5477.567,Private Voluntary Spending,139.191,2.54,208
+312,Denmark,2020,81.6,5849.395,Private Voluntary Spending,,,208
+313,Denmark,2010,79.3,4163.801,Out of Pocket Spending,598.992,14.39,208
+314,Denmark,2011,79.9,4169.777,Out of Pocket Spending,606.735,14.55,208
+315,Denmark,2012,80.1,4315.128,Out of Pocket Spending,610.981,14.16,208
+316,Denmark,2013,80.4,4455.753,Out of Pocket Spending,615.343,13.81,208
+317,Denmark,2014,80.8,4536.235,Out of Pocket Spending,624.846,13.77,208
+318,Denmark,2015,80.8,4673.314,Out of Pocket Spending,639.065,13.67,208
+319,Denmark,2016,80.9,4849.758,Out of Pocket Spending,665.017,13.71,208
+320,Denmark,2017,81.2,5083.278,Out of Pocket Spending,698.364,13.74,208
+321,Denmark,2018,81.0,5316.577,Out of Pocket Spending,731.832,13.77,208
+322,Denmark,2019,81.5,5477.567,Out of Pocket Spending,776.13,14.17,208
+323,Denmark,2020,81.6,5849.395,Out of Pocket Spending,,,208
+324,Estonia,2010,75.9,1364.153,Government Spending,1041.233,76.33,233
+325,Estonia,2011,76.4,1403.664,Government Spending,1076.466,76.69,233
+326,Estonia,2012,76.5,1515.08,Government Spending,1161.356,76.65,233
+327,Estonia,2013,77.3,1636.088,Government Spending,1236.992,75.61,233
+328,Estonia,2014,77.2,1752.158,Government Spending,1326.018,75.68,233
+329,Estonia,2015,77.7,1867.757,Government Spending,1412.345,75.62,233
+330,Estonia,2016,77.8,2028.237,Government Spending,1534.49,75.66,233
+331,Estonia,2017,78.2,2201.895,Government Spending,1620.368,73.59,233
+332,Estonia,2018,78.4,2365.786,Government Spending,1743.55,73.7,233
+333,Estonia,2019,78.8,2507.068,Government Spending,1867.585,74.49,233
+334,Estonia,2020,78.5,2948.505,Government Spending,2305.578,78.19,233
+335,Estonia,2010,75.9,1364.153,Private Voluntary Spending,23.851,1.75,233
+336,Estonia,2011,76.4,1403.664,Private Voluntary Spending,23.813,1.7,233
+337,Estonia,2012,76.5,1515.08,Private Voluntary Spending,27.191,1.79,233
+338,Estonia,2013,77.3,1636.088,Private Voluntary Spending,28.918,1.77,233
+339,Estonia,2014,77.2,1752.158,Private Voluntary Spending,29.069,1.66,233
+340,Estonia,2015,77.7,1867.757,Private Voluntary Spending,30.003,1.61,233
+341,Estonia,2016,77.8,2028.237,Private Voluntary Spending,33.585,1.66,233
+342,Estonia,2017,78.2,2201.895,Private Voluntary Spending,35.151,1.6,233
+343,Estonia,2018,78.4,2365.786,Private Voluntary Spending,41.951,1.77,233
+344,Estonia,2019,78.8,2507.068,Private Voluntary Spending,39.419,1.57,233
+345,Estonia,2020,78.5,2948.505,Private Voluntary Spending,40.436,1.37,233
+346,Estonia,2010,75.9,1364.153,Out of Pocket Spending,299.068,21.92,233
+347,Estonia,2011,76.4,1403.664,Out of Pocket Spending,302.63,21.56,233
+348,Estonia,2012,76.5,1515.08,Out of Pocket Spending,326.014,21.52,233
+349,Estonia,2013,77.3,1636.088,Out of Pocket Spending,369.904,22.61,233
+350,Estonia,2014,77.2,1752.158,Out of Pocket Spending,396.359,22.62,233
+351,Estonia,2015,77.7,1867.757,Out of Pocket Spending,425.326,22.77,233
+352,Estonia,2016,77.8,2028.237,Out of Pocket Spending,460.124,22.69,233
+353,Estonia,2017,78.2,2201.895,Out of Pocket Spending,546.376,24.81,233
+354,Estonia,2018,78.4,2365.786,Out of Pocket Spending,580.285,24.53,233
+355,Estonia,2019,78.8,2507.068,Out of Pocket Spending,600.064,23.93,233
+356,Estonia,2020,78.5,2948.505,Out of Pocket Spending,602.492,20.43,233
+357,Finland,2010,80.2,3428.991,Government Spending,2643.22,77.08,246
+358,Finland,2011,80.6,3598.304,Government Spending,2792.738,77.61,246
+359,Finland,2012,80.7,3786.188,Government Spending,2960.272,78.19,246
+360,Finland,2013,81.1,3933.237,Government Spending,3065.952,77.95,246
+361,Finland,2014,81.3,3955.756,Government Spending,3086.133,78.02,246
+362,Finland,2015,81.6,3992.494,Government Spending,3071.842,76.94,246
+363,Finland,2016,81.5,4103.556,Government Spending,3127.993,76.23,246
+364,Finland,2017,81.7,4215.312,Government Spending,3221.254,76.42,246
+365,Finland,2018,81.8,4378.651,Government Spending,3369.635,76.96,246
+366,Finland,2019,82.1,4558.538,Government Spending,3547.541,77.82,246
+367,Finland,2020,82.2,4662.187,Government Spending,3650.929,78.31,246
+368,Finland,2010,80.2,3428.991,Private Voluntary Spending,140.985,4.11,246
+369,Finland,2011,80.6,3598.304,Private Voluntary Spending,152.4,4.24,246
+370,Finland,2012,80.7,3786.188,Private Voluntary Spending,164.773,4.35,246
+371,Finland,2013,81.1,3933.237,Private Voluntary Spending,167.386,4.26,246
+372,Finland,2014,81.3,3955.756,Private Voluntary Spending,171.928,4.35,246
+373,Finland,2015,81.6,3992.494,Private Voluntary Spending,176.895,4.43,246
+374,Finland,2016,81.5,4103.556,Private Voluntary Spending,184.689,4.5,246
+375,Finland,2017,81.7,4215.312,Private Voluntary Spending,191.21,4.54,246
+376,Finland,2018,81.8,4378.651,Private Voluntary Spending,204.683,4.67,246
+377,Finland,2019,82.1,4558.538,Private Voluntary Spending,215.58,4.73,246
+378,Finland,2020,82.2,4662.187,Private Voluntary Spending,215.334,4.62,246
+379,Finland,2010,80.2,3428.991,Out of Pocket Spending,644.786,18.8,246
+380,Finland,2011,80.6,3598.304,Out of Pocket Spending,653.166,18.15,246
+381,Finland,2012,80.7,3786.188,Out of Pocket Spending,661.143,17.46,246
+382,Finland,2013,81.1,3933.237,Out of Pocket Spending,699.899,17.79,246
+383,Finland,2014,81.3,3955.756,Out of Pocket Spending,697.694,17.64,246
+384,Finland,2015,81.6,3992.494,Out of Pocket Spending,743.758,18.63,246
+385,Finland,2016,81.5,4103.556,Out of Pocket Spending,790.875,19.27,246
+386,Finland,2017,81.7,4215.312,Out of Pocket Spending,802.847,19.05,246
+387,Finland,2018,81.8,4378.651,Out of Pocket Spending,804.333,18.37,246
+388,Finland,2019,82.1,4558.538,Out of Pocket Spending,795.417,17.45,246
+389,Finland,2020,82.2,4662.187,Out of Pocket Spending,795.924,17.07,246
+390,France,2010,81.8,4047.026,Government Spending,3086.234,76.26,250
+391,France,2011,82.3,4161.698,Government Spending,3163.075,76.0,250
+392,France,2012,82.1,4299.434,Government Spending,3271.337,76.09,250
+393,France,2013,82.3,4549.619,Government Spending,3468.356,76.23,250
+394,France,2014,82.8,4630.798,Government Spending,3541.056,76.47,250
+395,France,2015,82.4,4669.923,Government Spending,3577.106,76.6,250
+396,France,2016,82.7,4922.263,Government Spending,4086.625,83.02,250
+397,France,2017,82.7,4994.828,Government Spending,4154.645,83.18,250
+398,France,2018,82.8,5136.2,Government Spending,4289.553,83.52,250
+399,France,2019,82.9,5274.26,Government Spending,4414.98,83.71,250
+400,France,2020,82.3,5564.075,Government Spending,,,250
+401,France,2010,81.8,4047.026,Private Voluntary Spending,546.578,13.51,250
+402,France,2011,82.3,4161.698,Private Voluntary Spending,572.467,13.76,250
+403,France,2012,82.1,4299.434,Private Voluntary Spending,592.996,13.79,250
+404,France,2013,82.3,4549.619,Private Voluntary Spending,628.667,13.82,250
+405,France,2014,82.8,4630.798,Private Voluntary Spending,632.688,13.66,250
+406,France,2015,82.4,4669.923,Private Voluntary Spending,639.046,13.68,250
+407,France,2016,82.7,4922.263,Private Voluntary Spending,364.258,7.4,250
+408,France,2017,82.7,4994.828,Private Voluntary Spending,361.377,7.24,250
+409,France,2018,82.8,5136.2,Private Voluntary Spending,368.129,7.17,250
+410,France,2019,82.9,5274.26,Private Voluntary Spending,370.827,7.03,250
+411,France,2020,82.3,5564.075,Private Voluntary Spending,,,250
+412,France,2010,81.8,4047.026,Out of Pocket Spending,414.214,10.24,250
+413,France,2011,82.3,4161.698,Out of Pocket Spending,426.155,10.24,250
+414,France,2012,82.1,4299.434,Out of Pocket Spending,435.101,10.12,250
+415,France,2013,82.3,4549.619,Out of Pocket Spending,452.597,9.95,250
+416,France,2014,82.8,4630.798,Out of Pocket Spending,457.053,9.87,250
+417,France,2015,82.4,4669.923,Out of Pocket Spending,453.77,9.72,250
+418,France,2016,82.7,4922.263,Out of Pocket Spending,471.38,9.58,250
+419,France,2017,82.7,4994.828,Out of Pocket Spending,478.806,9.59,250
+420,France,2018,82.8,5136.2,Out of Pocket Spending,478.518,9.32,250
+421,France,2019,82.9,5274.26,Out of Pocket Spending,488.453,9.26,250
+422,France,2020,82.3,5564.075,Out of Pocket Spending,,,250
+423,Germany,2010,80.5,4425.073,Government Spending,3683.541,83.24,276
+424,Germany,2011,80.5,4566.553,Government Spending,3795.365,83.11,276
+425,Germany,2012,80.6,4745.435,Government Spending,3937.633,82.98,276
+426,Germany,2013,80.6,4951.437,Government Spending,4151.369,83.84,276
+427,Germany,2014,81.2,5151.422,Government Spending,4338.224,84.21,276
+428,Germany,2015,80.7,5295.897,Government Spending,4458.181,84.18,276
+429,Germany,2016,81.1,5670.578,Government Spending,4781.354,84.32,276
+430,Germany,2017,81.1,5959.529,Government Spending,5037.283,84.52,276
+431,Germany,2018,81.0,6291.041,Government Spending,5313.833,84.47,276
+432,Germany,2019,81.4,6518.004,Government Spending,5514.432,84.6,276
+433,Germany,2020,81.1,6730.942,Government Spending,5728.947,85.11,276
+434,Germany,2010,80.5,4425.073,Private Voluntary Spending,130.683,2.95,276
+435,Germany,2011,80.5,4566.553,Private Voluntary Spending,138.923,3.04,276
+436,Germany,2012,80.6,4745.435,Private Voluntary Spending,142.4,3.0,276
+437,Germany,2013,80.6,4951.437,Private Voluntary Spending,147.603,2.98,276
+438,Germany,2014,81.2,5151.422,Private Voluntary Spending,150.384,2.92,276
+439,Germany,2015,80.7,5295.897,Private Voluntary Spending,151.598,2.86,276
+440,Germany,2016,81.1,5670.578,Private Voluntary Spending,160.099,2.82,276
+441,Germany,2017,81.1,5959.529,Private Voluntary Spending,168.626,2.83,276
+442,Germany,2018,81.0,6291.041,Private Voluntary Spending,177.524,2.82,276
+443,Germany,2019,81.4,6518.004,Private Voluntary Spending,176.019,2.7,276
+444,Germany,2020,81.1,6730.942,Private Voluntary Spending,173.601,2.58,276
+445,Germany,2010,80.5,4425.073,Out of Pocket Spending,610.849,13.8,276
+446,Germany,2011,80.5,4566.553,Out of Pocket Spending,632.265,13.85,276
+447,Germany,2012,80.6,4745.435,Out of Pocket Spending,665.385,14.02,276
+448,Germany,2013,80.6,4951.437,Out of Pocket Spending,652.449,13.18,276
+449,Germany,2014,81.2,5151.422,Out of Pocket Spending,662.814,12.87,276
+450,Germany,2015,80.7,5295.897,Out of Pocket Spending,686.118,12.96,276
+451,Germany,2016,81.1,5670.578,Out of Pocket Spending,729.108,12.86,276
+452,Germany,2017,81.1,5959.529,Out of Pocket Spending,753.604,12.65,276
+453,Germany,2018,81.0,6291.041,Out of Pocket Spending,799.684,12.71,276
+454,Germany,2019,81.4,6518.004,Out of Pocket Spending,827.554,12.7,276
+455,Germany,2020,81.1,6730.942,Out of Pocket Spending,828.379,12.31,276
+456,Greece,2010,80.7,2607.87,Government Spending,1796.976,68.91,300
+457,Greece,2011,80.8,2289.591,Government Spending,1504.33,65.7,300
+458,Greece,2012,80.7,2145.538,Government Spending,1418.316,66.11,300
+459,Greece,2013,81.4,2067.17,Government Spending,1275.472,61.7,300
+460,Greece,2014,81.5,2016.562,Government Spending,1163.007,57.67,300
+461,Greece,2015,81.1,2080.85,Government Spending,1198.232,57.58,300
+462,Greece,2016,81.5,2220.862,Government Spending,1348.87,60.74,300
+463,Greece,2017,81.4,2245.122,Government Spending,1357.319,60.46,300
+464,Greece,2018,81.9,2290.646,Government Spending,1338.374,58.43,300
+465,Greece,2019,81.7,2318.964,Government Spending,1385.758,59.76,300
+466,Greece,2010,80.7,2607.87,Private Voluntary Spending,73.433,2.82,300
+467,Greece,2011,80.8,2289.591,Private Voluntary Spending,67.596,2.95,300
+468,Greece,2012,80.7,2145.538,Private Voluntary Spending,70.804,3.3,300
+469,Greece,2013,81.4,2067.17,Private Voluntary Spending,70.114,3.39,300
+470,Greece,2014,81.5,2016.562,Private Voluntary Spending,79.185,3.93,300
+471,Greece,2015,81.1,2080.85,Private Voluntary Spending,83.418,4.01,300
+472,Greece,2016,81.5,2220.862,Private Voluntary Spending,91.453,4.12,300
+473,Greece,2017,81.4,2245.122,Private Voluntary Spending,96.091,4.28,300
+474,Greece,2018,81.9,2290.646,Private Voluntary Spending,106.722,4.66,300
+475,Greece,2019,81.7,2318.964,Private Voluntary Spending,114.268,4.93,300
+476,Greece,2010,80.7,2607.87,Out of Pocket Spending,736.954,28.26,300
+477,Greece,2011,80.8,2289.591,Out of Pocket Spending,713.402,31.16,300
+478,Greece,2012,80.7,2145.538,Out of Pocket Spending,653.294,30.45,300
+479,Greece,2013,81.4,2067.17,Out of Pocket Spending,704.432,34.08,300
+480,Greece,2014,81.5,2016.562,Out of Pocket Spending,748.119,37.1,300
+481,Greece,2015,81.1,2080.85,Out of Pocket Spending,764.987,36.76,300
+482,Greece,2016,81.5,2220.862,Out of Pocket Spending,774.767,34.89,300
+483,Greece,2017,81.4,2245.122,Out of Pocket Spending,787.688,35.08,300
+484,Greece,2018,81.9,2290.646,Out of Pocket Spending,842.439,36.78,300
+485,Greece,2019,81.7,2318.964,Out of Pocket Spending,815.742,35.18,300
+486,Hungary,2010,74.7,1667.018,Government Spending,1118.179,67.08,348
+487,Hungary,2011,75.0,1755.527,Government Spending,1167.38,66.5,348
+488,Hungary,2012,75.2,1766.535,Government Spending,1157.226,65.51,348
+489,Hungary,2013,75.7,1821.58,Government Spending,1213.611,66.62,348
+490,Hungary,2014,75.9,1863.754,Government Spending,1250.128,67.08,348
+491,Hungary,2015,75.7,1891.247,Government Spending,1289.204,68.17,348
+492,Hungary,2016,76.2,1999.683,Government Spending,1361.359,68.08,348
+493,Hungary,2017,75.9,2000.095,Government Spending,1375.745,68.78,348
+494,Hungary,2018,76.2,2102.765,Government Spending,1469.617,69.89,348
+495,Hungary,2019,76.4,2169.772,Government Spending,1482.511,68.33,348
+496,Hungary,2010,74.7,1667.018,Private Voluntary Spending,91.317,5.48,348
+497,Hungary,2011,75.0,1755.527,Private Voluntary Spending,92.324,5.26,348
+498,Hungary,2012,75.2,1766.535,Private Voluntary Spending,90.002,5.09,348
+499,Hungary,2013,75.7,1821.58,Private Voluntary Spending,90.915,4.99,348
+500,Hungary,2014,75.9,1863.754,Private Voluntary Spending,85.049,4.56,348
+501,Hungary,2015,75.7,1891.247,Private Voluntary Spending,82.17,4.34,348
+502,Hungary,2016,76.2,1999.683,Private Voluntary Spending,84.624,4.23,348
+503,Hungary,2017,75.9,2000.095,Private Voluntary Spending,76.915,3.85,348
+504,Hungary,2018,76.2,2102.765,Private Voluntary Spending,77.415,3.68,348
+505,Hungary,2019,76.4,2169.772,Private Voluntary Spending,76.262,3.51,348
+506,Hungary,2010,74.7,1667.018,Out of Pocket Spending,457.522,27.45,348
+507,Hungary,2011,75.0,1755.527,Out of Pocket Spending,495.823,28.24,348
+508,Hungary,2012,75.2,1766.535,Out of Pocket Spending,519.307,29.4,348
+509,Hungary,2013,75.7,1821.58,Out of Pocket Spending,517.053,28.38,348
+510,Hungary,2014,75.9,1863.754,Out of Pocket Spending,528.577,28.36,348
+511,Hungary,2015,75.7,1891.247,Out of Pocket Spending,519.873,27.49,348
+512,Hungary,2016,76.2,1999.683,Out of Pocket Spending,553.701,27.69,348
+513,Hungary,2017,75.9,2000.095,Out of Pocket Spending,547.436,27.37,348
+514,Hungary,2018,76.2,2102.765,Out of Pocket Spending,555.734,26.43,348
+515,Hungary,2019,76.4,2169.772,Out of Pocket Spending,610.998,28.16,348
+516,Iceland,2010,82.0,3265.875,Government Spending,2608.147,79.86,352
+517,Iceland,2011,82.4,3312.496,Government Spending,2650.209,80.01,352
+518,Iceland,2012,83.0,3398.96,Government Spending,2716.472,79.92,352
+519,Iceland,2013,82.1,3498.114,Government Spending,2806.638,80.23,352
+520,Iceland,2014,82.9,3599.573,Government Spending,2897.443,80.49,352
+521,Iceland,2015,82.5,3733.296,Government Spending,3016.871,80.81,352
+522,Iceland,2016,82.3,3932.084,Government Spending,3204.993,81.51,352
+523,Iceland,2017,82.7,4135.023,Government Spending,3389.35,81.97,352
+524,Iceland,2018,82.9,4376.857,Government Spending,3609.403,82.47,352
+525,Iceland,2019,83.2,4540.762,Government Spending,3763.782,82.89,352
+526,Iceland,2020,83.1,5034.092,Government Spending,4218.781,83.8,352
+527,Iceland,2010,82.0,3265.875,Private Voluntary Spending,48.276,1.48,352
+528,Iceland,2011,82.4,3312.496,Private Voluntary Spending,49.372,1.49,352
+529,Iceland,2012,83.0,3398.96,Private Voluntary Spending,51.378,1.51,352
+530,Iceland,2013,82.1,3498.114,Private Voluntary Spending,52.855,1.51,352
+531,Iceland,2014,82.9,3599.573,Private Voluntary Spending,54.917,1.53,352
+532,Iceland,2015,82.5,3733.296,Private Voluntary Spending,57.838,1.55,352
+533,Iceland,2016,82.3,3932.084,Private Voluntary Spending,63.834,1.62,352
+534,Iceland,2017,82.7,4135.023,Private Voluntary Spending,69.394,1.68,352
+535,Iceland,2018,82.9,4376.857,Private Voluntary Spending,73.25,1.67,352
+536,Iceland,2019,83.2,4540.762,Private Voluntary Spending,74.874,1.65,352
+537,Iceland,2020,83.1,5034.092,Private Voluntary Spending,82.107,1.63,352
+538,Iceland,2010,82.0,3265.875,Out of Pocket Spending,609.451,18.66,352
+539,Iceland,2011,82.4,3312.496,Out of Pocket Spending,612.916,18.5,352
+540,Iceland,2012,83.0,3398.96,Out of Pocket Spending,631.11,18.57,352
+541,Iceland,2013,82.1,3498.114,Out of Pocket Spending,638.621,18.26,352
+542,Iceland,2014,82.9,3599.573,Out of Pocket Spending,647.213,17.98,352
+543,Iceland,2015,82.5,3733.296,Out of Pocket Spending,658.586,17.64,352
+544,Iceland,2016,82.3,3932.084,Out of Pocket Spending,663.257,16.87,352
+545,Iceland,2017,82.7,4135.023,Out of Pocket Spending,676.28,16.35,352
+546,Iceland,2018,82.9,4376.857,Out of Pocket Spending,694.204,15.86,352
+547,Iceland,2019,83.2,4540.762,Out of Pocket Spending,702.105,15.46,352
+548,Iceland,2020,83.1,5034.092,Out of Pocket Spending,733.204,14.56,352
+549,India,2011,67.2,159.858,Government Spending,44.795,28.02,356
+550,India,2012,67.6,178.642,Government Spending,48.439,27.12,356
+551,India,2013,68.0,208.145,Government Spending,46.013,22.11,356
+552,India,2014,68.3,208.864,Government Spending,47.849,22.91,356
+553,India,2015,68.7,216.051,Government Spending,55.731,25.8,356
+554,India,2016,68.9,224.324,Government Spending,60.622,27.02,356
+555,India,2017,69.2,238.103,Government Spending,65.401,27.47,356
+556,India,2018,69.5,257.403,Government Spending,69.982,27.19,356
+557,India,2011,67.2,159.858,Private Voluntary Spending,15.592,9.75,356
+558,India,2012,67.6,178.642,Private Voluntary Spending,17.659,9.89,356
+559,India,2013,68.0,208.145,Private Voluntary Spending,18.36,8.82,356
+560,India,2014,68.3,208.864,Private Voluntary Spending,21.047,10.08,356
+561,India,2015,68.7,216.051,Private Voluntary Spending,20.612,9.54,356
+562,India,2016,68.9,224.324,Private Voluntary Spending,21.916,9.77,356
+563,India,2017,69.2,238.103,Private Voluntary Spending,23.004,9.66,356
+564,India,2018,69.5,257.403,Private Voluntary Spending,24.927,9.68,356
+565,India,2011,67.2,159.858,Out of Pocket Spending,99.472,62.23,356
+566,India,2012,67.6,178.642,Out of Pocket Spending,112.545,63.0,356
+567,India,2013,68.0,208.145,Out of Pocket Spending,143.772,69.07,356
+568,India,2014,68.3,208.864,Out of Pocket Spending,139.968,67.01,356
+569,India,2015,68.7,216.051,Out of Pocket Spending,139.708,64.66,356
+570,India,2016,68.9,224.324,Out of Pocket Spending,141.787,63.21,356
+571,India,2017,69.2,238.103,Out of Pocket Spending,148.578,62.4,356
+572,India,2018,69.5,257.403,Out of Pocket Spending,161.307,62.67,356
+573,Indonesia,2011,69.6,273.334,Government Spending,75.471,27.61,360
+574,Indonesia,2012,69.9,290.523,Government Spending,88.643,30.51,360
+575,Indonesia,2013,70.2,303.801,Government Spending,97.043,31.94,360
+576,Indonesia,2014,70.5,328.558,Government Spending,118.469,36.06,360
+577,Indonesia,2015,70.8,314.329,Government Spending,130.641,41.56,360
+578,Indonesia,2016,71.1,330.886,Government Spending,153.464,46.38,360
+579,Indonesia,2017,71.3,316.239,Government Spending,149.251,47.2,360
+580,Indonesia,2018,71.6,336.726,Government Spending,168.173,49.94,360
+581,Indonesia,2011,69.6,273.334,Private Voluntary Spending,42.287,15.47,360
+582,Indonesia,2012,69.9,290.523,Private Voluntary Spending,47.415,16.32,360
+583,Indonesia,2013,70.2,303.801,Private Voluntary Spending,56.915,18.73,360
+584,Indonesia,2014,70.5,328.558,Private Voluntary Spending,70.396,21.43,360
+585,Indonesia,2015,70.8,314.329,Private Voluntary Spending,54.607,17.37,360
+586,Indonesia,2016,71.1,330.886,Private Voluntary Spending,52.999,16.02,360
+587,Indonesia,2017,71.3,316.239,Private Voluntary Spending,54.449,17.22,360
+588,Indonesia,2018,71.6,336.726,Private Voluntary Spending,52.56,15.61,360
+589,Indonesia,2011,69.6,273.334,Out of Pocket Spending,155.575,56.92,360
+590,Indonesia,2012,69.9,290.523,Out of Pocket Spending,154.465,53.17,360
+591,Indonesia,2013,70.2,303.801,Out of Pocket Spending,149.843,49.32,360
+592,Indonesia,2014,70.5,328.558,Out of Pocket Spending,139.693,42.52,360
+593,Indonesia,2015,70.8,314.329,Out of Pocket Spending,129.082,41.07,360
+594,Indonesia,2016,71.1,330.886,Out of Pocket Spending,124.423,37.6,360
+595,Indonesia,2017,71.3,316.239,Out of Pocket Spending,112.539,35.59,360
+596,Indonesia,2018,71.6,336.726,Out of Pocket Spending,115.992,34.45,360
+597,Ireland,2010,80.8,4052.942,Government Spending,3087.44,76.18,372
+598,Ireland,2011,80.8,4197.572,Government Spending,3017.816,71.89,372
+599,Ireland,2012,80.9,4358.939,Government Spending,3127.341,71.75,372
+600,Ireland,2013,81.0,4299.896,Government Spending,3035.369,70.59,372
+601,Ireland,2014,81.4,4196.667,Government Spending,2979.858,71.01,372
+602,Ireland,2015,81.5,4295.461,Government Spending,3093.118,72.01,372
+603,Ireland,2016,81.7,4536.744,Government Spending,3299.179,72.72,372
+604,Ireland,2017,82.2,4683.364,Government Spending,3417.878,72.98,372
+605,Ireland,2018,82.3,4897.59,Government Spending,3630.391,74.13,372
+606,Ireland,2019,82.8,5083.213,Government Spending,3790.959,74.58,372
+607,Ireland,2010,80.8,4052.942,Private Voluntary Spending,406.373,10.03,372
+608,Ireland,2011,80.8,4197.572,Private Voluntary Spending,596.6,14.21,372
+609,Ireland,2012,80.9,4358.939,Private Voluntary Spending,625.899,14.36,372
+610,Ireland,2013,81.0,4299.896,Private Voluntary Spending,650.065,15.12,372
+611,Ireland,2014,81.4,4196.667,Private Voluntary Spending,616.275,14.68,372
+612,Ireland,2015,81.5,4295.461,Private Voluntary Spending,634.771,14.78,372
+613,Ireland,2016,81.7,4536.744,Private Voluntary Spending,657.096,14.48,372
+614,Ireland,2017,82.2,4683.364,Private Voluntary Spending,674.985,14.41,372
+615,Ireland,2018,82.3,4897.59,Private Voluntary Spending,678.381,13.85,372
+616,Ireland,2019,82.8,5083.213,Private Voluntary Spending,696.726,13.71,372
+617,Ireland,2010,80.8,4052.942,Out of Pocket Spending,559.129,13.8,372
+618,Ireland,2011,80.8,4197.572,Out of Pocket Spending,583.156,13.89,372
+619,Ireland,2012,80.9,4358.939,Out of Pocket Spending,605.699,13.9,372
+620,Ireland,2013,81.0,4299.896,Out of Pocket Spending,614.461,14.29,372
+621,Ireland,2014,81.4,4196.667,Out of Pocket Spending,600.534,14.31,372
+622,Ireland,2015,81.5,4295.461,Out of Pocket Spending,567.572,13.21,372
+623,Ireland,2016,81.7,4536.744,Out of Pocket Spending,580.469,12.79,372
+624,Ireland,2017,82.2,4683.364,Out of Pocket Spending,590.501,12.61,372
+625,Ireland,2018,82.3,4897.59,Out of Pocket Spending,588.819,12.02,372
+626,Ireland,2019,82.8,5083.213,Out of Pocket Spending,595.527,11.72,372
+627,Israel,2010,81.7,1974.785,Government Spending,1240.2,62.8,376
+628,Israel,2011,81.7,2081.778,Government Spending,1302.96,62.59,376
+629,Israel,2012,81.8,2223.345,Government Spending,1391.97,62.61,376
+630,Israel,2013,82.1,2238.455,Government Spending,1419.596,63.42,376
+631,Israel,2014,82.2,2237.584,Government Spending,1412.642,63.13,376
+632,Israel,2015,82.1,2310.019,Government Spending,1464.941,63.42,376
+633,Israel,2016,82.5,2524.083,Government Spending,1598.151,63.32,376
+634,Israel,2017,82.6,2626.181,Government Spending,1677.671,63.88,376
+635,Israel,2018,82.9,2836.329,Government Spending,1830.899,64.55,376
+636,Israel,2019,82.9,2903.412,Government Spending,1880.82,64.78,376
+637,Israel,2010,81.7,1974.785,Private Voluntary Spending,238.846,12.09,376
+638,Israel,2011,81.7,2081.778,Private Voluntary Spending,256.173,12.31,376
+639,Israel,2012,81.8,2223.345,Private Voluntary Spending,279.541,12.57,376
+640,Israel,2013,82.1,2238.455,Private Voluntary Spending,280.693,12.54,376
+641,Israel,2014,82.2,2237.584,Private Voluntary Spending,280.252,12.52,376
+642,Israel,2015,82.1,2310.019,Private Voluntary Spending,292.86,12.68,376
+643,Israel,2016,82.5,2524.083,Private Voluntary Spending,316.082,12.52,376
+644,Israel,2017,82.6,2626.181,Private Voluntary Spending,323.274,12.31,376
+645,Israel,2018,82.9,2836.329,Private Voluntary Spending,340.701,12.01,376
+646,Israel,2019,82.9,2903.412,Private Voluntary Spending,352.961,12.16,376
+647,Israel,2010,81.7,1974.785,Out of Pocket Spending,470.23,23.81,376
+648,Israel,2011,81.7,2081.778,Out of Pocket Spending,494.617,23.76,376
+649,Israel,2012,81.8,2223.345,Out of Pocket Spending,520.449,23.41,376
+650,Israel,2013,82.1,2238.455,Out of Pocket Spending,507.103,22.65,376
+651,Israel,2014,82.2,2237.584,Out of Pocket Spending,514.869,23.01,376
+652,Israel,2015,82.1,2310.019,Out of Pocket Spending,519.778,22.5,376
+653,Israel,2016,82.5,2524.083,Out of Pocket Spending,576.061,22.82,376
+654,Israel,2017,82.6,2626.181,Out of Pocket Spending,589.079,22.43,376
+655,Israel,2018,82.9,2836.329,Out of Pocket Spending,608.337,21.45,376
+656,Israel,2019,82.9,2903.412,Out of Pocket Spending,609.135,20.98,376
+657,Italy,2010,82.1,3105.969,Government Spending,2436.744,78.45,380
+658,Italy,2011,82.3,3098.256,Government Spending,2386.036,77.01,380
+659,Italy,2012,82.3,3071.61,Government Spending,2330.639,75.88,380
+660,Italy,2013,82.8,3042.931,Government Spending,2305.279,75.76,380
+661,Italy,2014,83.2,3036.86,Government Spending,2290.549,75.42,380
+662,Italy,2015,82.6,3088.932,Government Spending,2299.259,74.44,380
+663,Italy,2016,83.3,3274.024,Government Spending,2435.908,74.4,380
+664,Italy,2017,83.0,3376.084,Government Spending,2489.368,73.74,380
+665,Italy,2018,83.4,3522.076,Government Spending,2600.815,73.84,380
+666,Italy,2019,83.6,3653.401,Government Spending,2700.569,73.92,380
+667,Italy,2020,82.4,3819.39,Government Spending,2913.652,76.29,380
+668,Italy,2010,82.1,3105.969,Private Voluntary Spending,30.981,1.0,380
+669,Italy,2011,82.3,3098.256,Private Voluntary Spending,29.748,0.96,380
+670,Italy,2012,82.3,3071.61,Private Voluntary Spending,62.627,2.04,380
+671,Italy,2013,82.8,3042.931,Private Voluntary Spending,61.32,2.02,380
+672,Italy,2014,83.2,3036.86,Private Voluntary Spending,61.803,2.04,380
+673,Italy,2015,82.6,3088.932,Private Voluntary Spending,64.807,2.1,380
+674,Italy,2016,83.3,3274.024,Private Voluntary Spending,74.503,2.28,380
+675,Italy,2017,83.0,3376.084,Private Voluntary Spending,83.004,2.46,380
+676,Italy,2018,83.4,3522.076,Private Voluntary Spending,91.212,2.59,380
+677,Italy,2019,83.6,3653.401,Private Voluntary Spending,101.049,2.77,380
+678,Italy,2020,82.4,3819.39,Private Voluntary Spending,98.874,2.59,380
+679,Italy,2010,82.1,3105.969,Out of Pocket Spending,638.243,20.55,380
+680,Italy,2011,82.3,3098.256,Out of Pocket Spending,682.45,22.03,380
+681,Italy,2012,82.3,3071.61,Out of Pocket Spending,678.344,22.08,380
+682,Italy,2013,82.8,3042.931,Out of Pocket Spending,676.331,22.23,380
+683,Italy,2014,83.2,3036.86,Out of Pocket Spending,684.507,22.54,380
+684,Italy,2015,82.6,3088.932,Out of Pocket Spending,724.865,23.47,380
+685,Italy,2016,83.3,3274.024,Out of Pocket Spending,763.614,23.32,380
+686,Italy,2017,83.0,3376.084,Out of Pocket Spending,803.712,23.81,380
+687,Italy,2018,83.4,3522.076,Out of Pocket Spending,830.049,23.57,380
+688,Italy,2019,83.6,3653.401,Out of Pocket Spending,851.783,23.31,380
+689,Italy,2020,82.4,3819.39,Out of Pocket Spending,806.864,21.13,380
+690,Japan,2010,82.9,3169.521,Government Spending,2596.701,81.93,392
+691,Japan,2011,82.7,3740.756,Government Spending,3132.532,83.74,392
+692,Japan,2012,83.2,3970.765,Government Spending,3332.691,83.93,392
+693,Japan,2013,83.4,4308.252,Government Spending,3630.172,84.26,392
+694,Japan,2014,83.7,4328.364,Government Spending,3640.927,84.12,392
+695,Japan,2015,83.9,4515.556,Government Spending,3796.814,84.08,392
+696,Japan,2016,84.1,4295.858,Government Spending,3610.119,84.04,392
+697,Japan,2017,84.2,4412.852,Government Spending,3716.269,84.21,392
+698,Japan,2018,84.3,4558.669,Government Spending,3818.84,83.77,392
+699,Japan,2019,84.4,4691.462,Government Spending,3936.644,83.91,392
+700,Japan,2010,82.9,3169.521,Private Voluntary Spending,111.009,3.5,392
+701,Japan,2011,82.7,3740.756,Private Voluntary Spending,117.37,3.14,392
+702,Japan,2012,83.2,3970.765,Private Voluntary Spending,122.973,3.1,392
+703,Japan,2013,83.4,4308.252,Private Voluntary Spending,130.876,3.04,392
+704,Japan,2014,83.7,4328.364,Private Voluntary Spending,130.39,3.01,392
+705,Japan,2015,83.9,4515.556,Private Voluntary Spending,134.082,2.97,392
+706,Japan,2016,84.1,4295.858,Private Voluntary Spending,133.532,3.11,392
+707,Japan,2017,84.2,4412.852,Private Voluntary Spending,138.139,3.13,392
+708,Japan,2018,84.3,4558.669,Private Voluntary Spending,147.449,3.23,392
+709,Japan,2019,84.4,4691.462,Private Voluntary Spending,146.0209988,3.11,392
+710,Japan,2010,82.9,3169.521,Out of Pocket Spending,461.811,14.57,392
+711,Japan,2011,82.7,3740.756,Out of Pocket Spending,490.854,13.12,392
+712,Japan,2012,83.2,3970.765,Out of Pocket Spending,515.101,12.97,392
+713,Japan,2013,83.4,4308.252,Out of Pocket Spending,547.203,12.7,392
+714,Japan,2014,83.7,4328.364,Out of Pocket Spending,557.047,12.87,392
+715,Japan,2015,83.9,4515.556,Out of Pocket Spending,584.659,12.95,392
+716,Japan,2016,84.1,4295.858,Out of Pocket Spending,552.207,12.85,392
+717,Japan,2017,84.2,4412.852,Out of Pocket Spending,558.443,12.65,392
+718,Japan,2018,84.3,4558.669,Out of Pocket Spending,592.379,12.99,392
+719,Japan,2019,84.4,4691.462,Out of Pocket Spending,608.7980012,12.98,392
+720,"Korea, Republic of",2010,80.2,1879.043,Government Spending,1144.828,60.93,410
+721,"Korea, Republic of",2011,80.6,1966.703,Government Spending,1180.621,60.03,410
+722,"Korea, Republic of",2012,80.9,2071.546,Government Spending,1224.805,59.13,410
+723,"Korea, Republic of",2013,81.4,2129.162,Government Spending,1258.695,59.12,410
+724,"Korea, Republic of",2014,81.8,2233.19,Government Spending,1313.373,58.81,410
+725,"Korea, Republic of",2015,82.1,2491.691,Government Spending,1466.47,58.85,410
+726,"Korea, Republic of",2016,82.4,2664.734,Government Spending,1571.99,58.99,410
+727,"Korea, Republic of",2017,82.7,2802.355,Government Spending,1670.025,59.59,410
+728,"Korea, Republic of",2018,82.7,3091.826,Government Spending,1857.071,60.06,410
+729,"Korea, Republic of",2019,83.3,3406.256,Government Spending,2077.164,60.98,410
+730,"Korea, Republic of",2020,83.5,3493.695,Government Spending,2171.809,62.16,410
+731,"Korea, Republic of",2010,80.2,1879.043,Private Voluntary Spending,94.991,5.06,410
+732,"Korea, Republic of",2011,80.6,1966.703,Private Voluntary Spending,114.563,5.83,410
+733,"Korea, Republic of",2012,80.9,2071.546,Private Voluntary Spending,131.063,6.33,410
+734,"Korea, Republic of",2013,81.4,2129.162,Private Voluntary Spending,141.751,6.66,410
+735,"Korea, Republic of",2014,81.8,2233.19,Private Voluntary Spending,162.624,7.28,410
+736,"Korea, Republic of",2015,82.1,2491.691,Private Voluntary Spending,186.697,7.49,410
+737,"Korea, Republic of",2016,82.4,2664.734,Private Voluntary Spending,210.863,7.91,410
+738,"Korea, Republic of",2017,82.7,2802.355,Private Voluntary Spending,223.636,7.98,410
+739,"Korea, Republic of",2018,82.7,3091.826,Private Voluntary Spending,237.817,7.69,410
+740,"Korea, Republic of",2019,83.3,3406.256,Private Voluntary Spending,298.867,8.77,410
+741,"Korea, Republic of",2020,83.5,3493.695,Private Voluntary Spending,302.214,8.65,410
+742,"Korea, Republic of",2010,80.2,1879.043,Out of Pocket Spending,639.224,34.02,410
+743,"Korea, Republic of",2011,80.6,1966.703,Out of Pocket Spending,671.519,34.14,410
+744,"Korea, Republic of",2012,80.9,2071.546,Out of Pocket Spending,715.678,34.55,410
+745,"Korea, Republic of",2013,81.4,2129.162,Out of Pocket Spending,728.715,34.23,410
+746,"Korea, Republic of",2014,81.8,2233.19,Out of Pocket Spending,757.193,33.91,410
+747,"Korea, Republic of",2015,82.1,2491.691,Out of Pocket Spending,838.525,33.65,410
+748,"Korea, Republic of",2016,82.4,2664.734,Out of Pocket Spending,881.881,33.09,410
+749,"Korea, Republic of",2017,82.7,2802.355,Out of Pocket Spending,908.694,32.43,410
+750,"Korea, Republic of",2018,82.7,3091.826,Out of Pocket Spending,996.937,32.24,410
+751,"Korea, Republic of",2019,83.3,3406.256,Out of Pocket Spending,1030.225,30.25,410
+752,"Korea, Republic of",2020,83.5,3493.695,Out of Pocket Spending,1019.672,29.19,410
+753,Latvia,2010,73.0,1076.692,Government Spending,648.005,60.18,428
+754,Latvia,2011,73.7,1077.559,Government Spending,684.222,63.5,428
+755,Latvia,2012,73.9,1156.185,Government Spending,697.733,60.35,428
+756,Latvia,2013,74.1,1229.697,Government Spending,737.991,60.01,428
+757,Latvia,2014,74.3,1286.483,Government Spending,767.675,59.67,428
+758,Latvia,2015,74.6,1404.653,Government Spending,823.868,58.65,428
+759,Latvia,2016,74.7,1613.803,Government Spending,901.578,55.87,428
+760,Latvia,2017,74.8,1676.414,Government Spending,961.078,57.33,428
+761,Latvia,2018,74.9,1867.283,Government Spending,1118.14,59.88,428
+762,Latvia,2019,75.5,2039.219,Government Spending,1240.395,60.83,428
+763,Latvia,2010,73.0,1076.692,Private Voluntary Spending,28.241,2.62,428
+764,Latvia,2011,73.7,1077.559,Private Voluntary Spending,23.77,2.21,428
+765,Latvia,2012,73.9,1156.185,Private Voluntary Spending,21.144,1.83,428
+766,Latvia,2013,74.1,1229.697,Private Voluntary Spending,18.623,1.51,428
+767,Latvia,2014,74.3,1286.483,Private Voluntary Spending,15.717,1.22,428
+768,Latvia,2015,74.6,1404.653,Private Voluntary Spending,12.544,0.89,428
+769,Latvia,2016,74.7,1613.803,Private Voluntary Spending,13.078,0.81,428
+770,Latvia,2017,74.8,1676.414,Private Voluntary Spending,14.791,0.88,428
+771,Latvia,2018,74.9,1867.283,Private Voluntary Spending,17.548,0.94,428
+772,Latvia,2019,75.5,2039.219,Private Voluntary Spending,72.946,3.58,428
+773,Latvia,2010,73.0,1076.692,Out of Pocket Spending,400.375,37.19,428
+774,Latvia,2011,73.7,1077.559,Out of Pocket Spending,369.568,34.3,428
+775,Latvia,2012,73.9,1156.185,Out of Pocket Spending,437.309,37.82,428
+776,Latvia,2013,74.1,1229.697,Out of Pocket Spending,473.083,38.47,428
+777,Latvia,2014,74.3,1286.483,Out of Pocket Spending,503.092,39.11,428
+778,Latvia,2015,74.6,1404.653,Out of Pocket Spending,568.24,40.45,428
+779,Latvia,2016,74.7,1613.803,Out of Pocket Spending,699.147,43.32,428
+780,Latvia,2017,74.8,1676.414,Out of Pocket Spending,700.545,41.79,428
+781,Latvia,2018,74.9,1867.283,Out of Pocket Spending,731.595,39.18,428
+782,Latvia,2019,75.5,2039.219,Out of Pocket Spending,725.878,35.6,428
+783,Lithuania,2010,73.3,1372.381,Government Spending,984.168,71.71,440
+784,Lithuania,2011,73.7,1484.751,Government Spending,1054.087,70.99,440
+785,Lithuania,2012,74.0,1567.998,Government Spending,1055.623,67.32,440
+786,Lithuania,2013,74.1,1662.584,Government Spending,1101.451,66.25,440
+787,Lithuania,2014,74.7,1781.68,Government Spending,1203.716,67.56,440
+788,Lithuania,2015,74.5,1917.088,Government Spending,1287.129,67.14,440
+789,Lithuania,2016,74.8,2097.796,Government Spending,1397.047,66.6,440
+790,Lithuania,2017,75.6,2230.967,Government Spending,1475.486,66.14,440
+791,Lithuania,2018,75.8,2414.809,Government Spending,1622.141,67.17,440
+792,Lithuania,2019,76.4,2727.189,Government Spending,1810.376,66.38,440
+793,Lithuania,2020,75.1,2940.665,Government Spending,1952.087,66.38,440
+794,Lithuania,2010,73.3,1372.381,Private Voluntary Spending,8.599,0.63,440
+795,Lithuania,2011,73.7,1484.751,Private Voluntary Spending,10.326,0.7,440
+796,Lithuania,2012,74.0,1567.998,Private Voluntary Spending,12.853,0.82,440
+797,Lithuania,2013,74.1,1662.584,Private Voluntary Spending,14.767,0.89,440
+798,Lithuania,2014,74.7,1781.68,Private Voluntary Spending,15.942,0.89,440
+799,Lithuania,2015,74.5,1917.088,Private Voluntary Spending,18.379,0.96,440
+800,Lithuania,2016,74.8,2097.796,Private Voluntary Spending,22.454,1.07,440
+801,Lithuania,2017,75.6,2230.967,Private Voluntary Spending,26.677,1.2,440
+802,Lithuania,2018,75.8,2414.809,Private Voluntary Spending,31.06,1.29,440
+803,Lithuania,2019,76.4,2727.189,Private Voluntary Spending,36.114,1.32,440
+804,Lithuania,2020,75.1,2940.665,Private Voluntary Spending,38.941,1.32,440
+805,Lithuania,2010,73.3,1372.381,Out of Pocket Spending,378.625,27.59,440
+806,Lithuania,2011,73.7,1484.751,Out of Pocket Spending,419.025,28.22,440
+807,Lithuania,2012,74.0,1567.998,Out of Pocket Spending,498.637,31.8,440
+808,Lithuania,2013,74.1,1662.584,Out of Pocket Spending,545.662,32.82,440
+809,Lithuania,2014,74.7,1781.68,Out of Pocket Spending,561.094,31.49,440
+810,Lithuania,2015,74.5,1917.088,Out of Pocket Spending,610.378,31.84,440
+811,Lithuania,2016,74.8,2097.796,Out of Pocket Spending,677.951,32.32,440
+812,Lithuania,2017,75.6,2230.967,Out of Pocket Spending,728.292,32.64,440
+813,Lithuania,2018,75.8,2414.809,Out of Pocket Spending,761.044,31.52,440
+814,Lithuania,2019,76.4,2727.189,Out of Pocket Spending,880.072,32.27,440
+815,Lithuania,2020,75.1,2940.665,Out of Pocket Spending,948.962,32.27,440
+816,Luxembourg,2010,80.7,5627.817,Government Spending,4778.819,84.91,442
+817,Luxembourg,2011,81.1,4830.489,Government Spending,4016.882,83.16,442
+818,Luxembourg,2012,81.5,4424.47,Government Spending,3665.639,82.85,442
+819,Luxembourg,2013,81.9,4636.665,Government Spending,3852.67,83.09,442
+820,Luxembourg,2014,82.3,4707.027,Government Spending,3929.256,83.48,442
+821,Luxembourg,2015,82.4,4692.344,Government Spending,3925.564,83.66,442
+822,Luxembourg,2016,82.8,4864.255,Government Spending,4066.893,83.61,442
+823,Luxembourg,2017,82.2,4988.997,Government Spending,4188.382,83.95,442
+824,Luxembourg,2018,82.4,5220.868,Government Spending,4389.511,84.08,442
+825,Luxembourg,2019,82.7,5414.482,Government Spending,4600.024,84.96,442
+826,Luxembourg,2010,80.7,5627.817,Private Voluntary Spending,273.091,4.85,442
+827,Luxembourg,2011,81.1,4830.489,Private Voluntary Spending,288.019,5.96,442
+828,Luxembourg,2012,81.5,4424.47,Private Voluntary Spending,183.821,4.15,442
+829,Luxembourg,2013,81.9,4636.665,Private Voluntary Spending,196.894,4.25,442
+830,Luxembourg,2014,82.3,4707.027,Private Voluntary Spending,190.808,4.05,442
+831,Luxembourg,2015,82.4,4692.344,Private Voluntary Spending,199.028,4.24,442
+832,Luxembourg,2016,82.8,4864.255,Private Voluntary Spending,210.516,4.33,442
+833,Luxembourg,2017,82.2,4988.997,Private Voluntary Spending,199.866,4.01,442
+834,Luxembourg,2018,82.4,5220.868,Private Voluntary Spending,212.788,4.08,442
+835,Luxembourg,2019,82.7,5414.482,Private Voluntary Spending,223.15,4.12,442
+836,Luxembourg,2010,80.7,5627.817,Out of Pocket Spending,575.907,10.23,442
+837,Luxembourg,2011,81.1,4830.489,Out of Pocket Spending,525.588,10.88,442
+838,Luxembourg,2012,81.5,4424.47,Out of Pocket Spending,507.469,11.47,442
+839,Luxembourg,2013,81.9,4636.665,Out of Pocket Spending,519.275,11.2,442
+840,Luxembourg,2014,82.3,4707.027,Out of Pocket Spending,521.186,11.07,442
+841,Luxembourg,2015,82.4,4692.344,Out of Pocket Spending,502.789,10.72,442
+842,Luxembourg,2016,82.8,4864.255,Out of Pocket Spending,522.636,10.74,442
+843,Luxembourg,2017,82.2,4988.997,Out of Pocket Spending,531.889,10.66,442
+844,Luxembourg,2018,82.4,5220.868,Out of Pocket Spending,544.834,10.44,442
+845,Luxembourg,2019,82.7,5414.482,Out of Pocket Spending,519.209,9.59,442
+846,Mexico,2010,74.8,894.224,Government Spending,449.068,50.22,484
+847,Mexico,2011,74.9,912.027,Government Spending,481.586,52.8,484
+848,Mexico,2012,75.0,973.451,Government Spending,516.728,53.08,484
+849,Mexico,2013,75.0,1002.571,Government Spending,538.893,53.75,484
+850,Mexico,2014,74.9,989.558,Government Spending,515.378,52.08,484
+851,Mexico,2015,74.7,1062.591,Government Spending,554.683,52.2,484
+852,Mexico,2016,74.8,1102.809,Government Spending,565.518,51.28,484
+853,Mexico,2017,74.9,1099.647,Government Spending,555.711,50.54,484
+854,Mexico,2018,75.0,1116.032,Government Spending,554.384,49.67,484
+855,Mexico,2019,75.1,1132.966,Government Spending,558.64,49.31,484
+856,Mexico,2020,75.13,1197.652,Government Spending,606.546,50.64,484
+857,Mexico,2010,74.8,894.224,Private Voluntary Spending,56.09,6.27,484
+858,Mexico,2011,74.9,912.027,Private Voluntary Spending,58.934,6.46,484
+859,Mexico,2012,75.0,973.451,Private Voluntary Spending,61.098,6.28,484
+860,Mexico,2013,75.0,1002.571,Private Voluntary Spending,63.861,6.37,484
+861,Mexico,2014,74.9,989.558,Private Voluntary Spending,69.727,7.05,484
+862,Mexico,2015,74.7,1062.591,Private Voluntary Spending,71.781,6.76,484
+863,Mexico,2016,74.8,1102.809,Private Voluntary Spending,81.035,7.35,484
+864,Mexico,2017,74.9,1099.647,Private Voluntary Spending,84.412,7.68,484
+865,Mexico,2018,75.0,1116.032,Private Voluntary Spending,90.046,8.07,484
+866,Mexico,2019,75.1,1132.966,Private Voluntary Spending,97.097,8.57,484
+867,Mexico,2020,75.13,1197.652,Private Voluntary Spending,103.994,8.68,484
+868,Mexico,2010,74.8,894.224,Out of Pocket Spending,389.066,43.51,484
+869,Mexico,2011,74.9,912.027,Out of Pocket Spending,371.507,40.73,484
+870,Mexico,2012,75.0,973.451,Out of Pocket Spending,395.624,40.64,484
+871,Mexico,2013,75.0,1002.571,Out of Pocket Spending,399.816,39.88,484
+872,Mexico,2014,74.9,989.558,Out of Pocket Spending,404.452,40.87,484
+873,Mexico,2015,74.7,1062.591,Out of Pocket Spending,436.127,41.04,484
+874,Mexico,2016,74.8,1102.809,Out of Pocket Spending,456.257,41.37,484
+875,Mexico,2017,74.9,1099.647,Out of Pocket Spending,459.525,41.79,484
+876,Mexico,2018,75.0,1116.032,Out of Pocket Spending,471.602,42.26,484
+877,Mexico,2019,75.1,1132.966,Out of Pocket Spending,477.229,42.12,484
+878,Mexico,2020,75.13,1197.652,Out of Pocket Spending,487.112,40.67,484
+879,Netherlands,2010,81.0,4476.729,Government Spending,3732.521,83.38,528
+880,Netherlands,2011,81.3,4567.358,Government Spending,3775.509,82.66,528
+881,Netherlands,2012,81.2,4782.367,Government Spending,3926.867,82.11,528
+882,Netherlands,2013,81.4,4923.878,Government Spending,3995.571,81.15,528
+883,Netherlands,2014,81.8,4934.582,Government Spending,4000.949,81.08,528
+884,Netherlands,2015,81.6,4927.104,Government Spending,4009.688,81.38,528
+885,Netherlands,2016,81.6,5095.837,Government Spending,4137.232,81.19,528
+886,Netherlands,2017,81.8,5253.773,Government Spending,4291.724,81.69,528
+887,Netherlands,2018,81.9,5538.095,Government Spending,4547.308,82.11,528
+888,Netherlands,2019,82.2,5739.201,Government Spending,4742.984,82.64,528
+889,Netherlands,2020,81.5,6298.506,Government Spending,5325.465,84.55,528
+890,Netherlands,2010,81.0,4476.729,Private Voluntary Spending,337.029,7.53,528
+891,Netherlands,2011,81.3,4567.358,Private Voluntary Spending,358.755,7.85,528
+892,Netherlands,2012,81.2,4782.367,Private Voluntary Spending,372.932,7.8,528
+893,Netherlands,2013,81.4,4923.878,Private Voluntary Spending,360.354,7.32,528
+894,Netherlands,2014,81.8,4934.582,Private Voluntary Spending,361.86,7.33,528
+895,Netherlands,2015,81.6,4927.104,Private Voluntary Spending,361.254,7.33,528
+896,Netherlands,2016,81.6,5095.837,Private Voluntary Spending,384.015,7.54,528
+897,Netherlands,2017,81.8,5253.773,Private Voluntary Spending,381.566,7.26,528
+898,Netherlands,2018,81.9,5538.095,Private Voluntary Spending,392.934,7.1,528
+899,Netherlands,2019,82.2,5739.201,Private Voluntary Spending,389.163,6.78,528
+900,Netherlands,2020,81.5,6298.506,Private Voluntary Spending,376.323,5.97,528
+901,Netherlands,2010,81.0,4476.729,Out of Pocket Spending,407.179,9.1,528
+902,Netherlands,2011,81.3,4567.358,Out of Pocket Spending,433.094,9.48,528
+903,Netherlands,2012,81.2,4782.367,Out of Pocket Spending,482.567,10.09,528
+904,Netherlands,2013,81.4,4923.878,Out of Pocket Spending,567.952,11.53,528
+905,Netherlands,2014,81.8,4934.582,Out of Pocket Spending,571.774,11.59,528
+906,Netherlands,2015,81.6,4927.104,Out of Pocket Spending,556.094,11.29,528
+907,Netherlands,2016,81.6,5095.837,Out of Pocket Spending,574.59,11.28,528
+908,Netherlands,2017,81.8,5253.773,Out of Pocket Spending,580.482,11.05,528
+909,Netherlands,2018,81.9,5538.095,Out of Pocket Spending,597.853,10.8,528
+910,Netherlands,2019,82.2,5739.201,Out of Pocket Spending,607.053,10.58,528
+911,Netherlands,2020,81.5,6298.506,Out of Pocket Spending,596.718,9.47,528
+912,New Zealand,2010,80.8,3044.818,Government Spending,2471.548,81.17,554
+913,New Zealand,2011,81.0,3132.309,Government Spending,2533.393,80.88,554
+914,New Zealand,2012,81.2,3240.034,Government Spending,2608.175,80.5,554
+915,New Zealand,2013,81.4,3388.248,Government Spending,2712.358,80.05,554
+916,New Zealand,2014,81.5,3490.835,Government Spending,2777.442,79.56,554
+917,New Zealand,2015,81.7,3500.719,Government Spending,2765.196,78.99,554
+918,New Zealand,2016,81.7,3732.589,Government Spending,2935.828,78.65,554
+919,New Zealand,2017,81.9,3842.325,Government Spending,3019.577,78.59,554
+920,New Zealand,2018,81.8,4058.746,Government Spending,3215.482,79.22,554
+921,New Zealand,2019,82.1,4211.854,Government Spending,3355.183,79.66,554
+922,New Zealand,2010,80.8,3044.818,Private Voluntary Spending,209.168,6.87,554
+923,New Zealand,2011,81.0,3132.309,Private Voluntary Spending,219.944,7.02,554
+924,New Zealand,2012,81.2,3240.034,Private Voluntary Spending,234.46,7.24,554
+925,New Zealand,2013,81.4,3388.248,Private Voluntary Spending,256.725,7.58,554
+926,New Zealand,2014,81.5,3490.835,Private Voluntary Spending,264.805,7.59,554
+927,New Zealand,2015,81.7,3500.719,Private Voluntary Spending,267.664,7.65,554
+928,New Zealand,2016,81.7,3732.589,Private Voluntary Spending,290.04,7.77,554
+929,New Zealand,2017,81.9,3842.325,Private Voluntary Spending,301.073,7.84,554
+930,New Zealand,2018,81.8,4058.746,Private Voluntary Spending,319.211,7.86,554
+931,New Zealand,2019,82.1,4211.854,Private Voluntary Spending,316.6452177,7.52,554
+932,New Zealand,2010,80.8,3044.818,Out of Pocket Spending,364.103,11.96,554
+933,New Zealand,2011,81.0,3132.309,Out of Pocket Spending,378.971,12.1,554
+934,New Zealand,2012,81.2,3240.034,Out of Pocket Spending,397.398,12.27,554
+935,New Zealand,2013,81.4,3388.248,Out of Pocket Spending,419.166,12.37,554
+936,New Zealand,2014,81.5,3490.835,Out of Pocket Spending,448.587,12.85,554
+937,New Zealand,2015,81.7,3500.719,Out of Pocket Spending,467.859,13.36,554
+938,New Zealand,2016,81.7,3732.589,Out of Pocket Spending,506.721,13.58,554
+939,New Zealand,2017,81.9,3842.325,Out of Pocket Spending,521.675,13.58,554
+940,New Zealand,2018,81.8,4058.746,Out of Pocket Spending,524.053,12.91,554
+941,New Zealand,2019,82.1,4211.854,Out of Pocket Spending,540.0257823,12.82,554
+942,Norway,2010,81.2,4779.455,Government Spending,4047.269,84.68,578
+943,Norway,2011,81.4,4965.182,Government Spending,4191.759,84.42,578
+944,Norway,2012,81.5,5209.58,Government Spending,4415.391,84.76,578
+945,Norway,2013,81.8,5485.877,Government Spending,4664.254,85.02,578
+946,Norway,2014,82.2,5707.38,Government Spending,4867.763,85.29,578
+947,Norway,2015,82.4,5726.873,Government Spending,4897.313,85.51,578
+948,Norway,2016,82.5,5904.221,Government Spending,5040.991,85.38,578
+949,Norway,2017,82.7,6234.377,Government Spending,5306.743,85.12,578
+950,Norway,2018,82.8,6536.761,Government Spending,5602.233,85.7,578
+951,Norway,2019,83.0,6744.623,Government Spending,5788.239,85.82,578
+952,Norway,2020,83.3,6748.433,Government Spending,5803.156,85.99,578
+953,Norway,2010,81.2,4779.455,Private Voluntary Spending,10.603,0.22,578
+954,Norway,2011,81.4,4965.182,Private Voluntary Spending,18.227,0.37,578
+955,Norway,2012,81.5,5209.58,Private Voluntary Spending,23.167,0.44,578
+956,Norway,2013,81.8,5485.877,Private Voluntary Spending,21.004,0.38,578
+957,Norway,2014,82.2,5707.38,Private Voluntary Spending,18.979,0.33,578
+958,Norway,2015,82.4,5726.873,Private Voluntary Spending,19.622,0.34,578
+959,Norway,2016,82.5,5904.221,Private Voluntary Spending,20.638,0.35,578
+960,Norway,2017,82.7,6234.377,Private Voluntary Spending,22.906,0.37,578
+961,Norway,2018,82.8,6536.761,Private Voluntary Spending,21.432,0.33,578
+962,Norway,2019,83.0,6744.623,Private Voluntary Spending,21.593,0.32,578
+963,Norway,2020,83.3,6748.433,Private Voluntary Spending,22.74,0.34,578
+964,Norway,2010,81.2,4779.455,Out of Pocket Spending,719.139,15.05,578
+965,Norway,2011,81.4,4965.182,Out of Pocket Spending,755.196,15.21,578
+966,Norway,2012,81.5,5209.58,Out of Pocket Spending,771.022,14.8,578
+967,Norway,2013,81.8,5485.877,Out of Pocket Spending,800.62,14.59,578
+968,Norway,2014,82.2,5707.38,Out of Pocket Spending,820.637,14.38,578
+969,Norway,2015,82.4,5726.873,Out of Pocket Spending,809.939,14.14,578
+970,Norway,2016,82.5,5904.221,Out of Pocket Spending,842.591,14.27,578
+971,Norway,2017,82.7,6234.377,Out of Pocket Spending,904.728,14.51,578
+972,Norway,2018,82.8,6536.761,Out of Pocket Spending,913.096,13.97,578
+973,Norway,2019,83.0,6744.623,Out of Pocket Spending,934.791,13.86,578
+974,Norway,2020,83.3,6748.433,Out of Pocket Spending,922.537,13.67,578
+975,Poland,2010,76.5,1424.099,Government Spending,1020.788,71.68,616
+976,Poland,2011,76.8,1496.615,Government Spending,1060.691,70.87,616
+977,Poland,2012,76.9,1578.6,Government Spending,1105.667,70.04,616
+978,Poland,2013,77.1,1670.783,Government Spending,1180.534,70.66,616
+979,Poland,2014,77.7,1687.056,Government Spending,1192.056,70.66,616
+980,Poland,2015,77.6,1818.883,Government Spending,1268.563,69.74,616
+981,Poland,2016,78.0,1959.094,Government Spending,1358.063,69.32,616
+982,Poland,2017,77.9,2062.735,Government Spending,1429.225,69.29,616
+983,Poland,2018,77.7,2122.841,Government Spending,1517.709,71.49,616
+984,Poland,2019,78.0,2289.309,Government Spending,1643.195,71.78,616
+985,Poland,2020,76.7,2546.964,Government Spending,1867.556,73.32,616
+986,Poland,2010,76.5,1424.099,Private Voluntary Spending,65.598,4.61,616
+987,Poland,2011,76.8,1496.615,Private Voluntary Spending,77.413,5.17,616
+988,Poland,2012,76.9,1578.6,Private Voluntary Spending,89.901,5.69,616
+989,Poland,2013,77.1,1670.783,Private Voluntary Spending,95.186,5.7,616
+990,Poland,2014,77.7,1687.056,Private Voluntary Spending,104.858,6.22,616
+991,Poland,2015,77.6,1818.883,Private Voluntary Spending,131.296,7.22,616
+992,Poland,2016,78.0,1959.094,Private Voluntary Spending,153.992,7.86,616
+993,Poland,2017,77.9,2062.735,Private Voluntary Spending,164.517,7.98,616
+994,Poland,2018,77.7,2122.841,Private Voluntary Spending,171.64,8.09,616
+995,Poland,2019,78.0,2289.309,Private Voluntary Spending,186.174,8.13,616
+996,Poland,2020,76.7,2546.964,Private Voluntary Spending,183.799,7.22,616
+997,Poland,2010,76.5,1424.099,Out of Pocket Spending,337.713,23.71,616
+998,Poland,2011,76.8,1496.615,Out of Pocket Spending,358.511,23.95,616
+999,Poland,2012,76.9,1578.6,Out of Pocket Spending,383.032,24.26,616
+1000,Poland,2013,77.1,1670.783,Out of Pocket Spending,395.064,23.65,616
+1001,Poland,2014,77.7,1687.056,Out of Pocket Spending,390.141,23.13,616
+1002,Poland,2015,77.6,1818.883,Out of Pocket Spending,419.024,23.04,616
+1003,Poland,2016,78.0,1959.094,Out of Pocket Spending,447.039,22.82,616
+1004,Poland,2017,77.9,2062.735,Out of Pocket Spending,468.992,22.74,616
+1005,Poland,2018,77.7,2122.841,Out of Pocket Spending,433.491,20.42,616
+1006,Poland,2019,78.0,2289.309,Out of Pocket Spending,459.94,20.09,616
+1007,Poland,2020,76.7,2546.964,Out of Pocket Spending,495.609,19.46,616
+1008,Portugal,2010,80.0,2581.404,Government Spending,1718.277,66.56,620
+1009,Portugal,2011,80.6,2457.491,Government Spending,1586.497,64.56,620
+1010,Portugal,2012,80.5,2420.857,Government Spending,1484.834,61.34,620
+1011,Portugal,2013,80.8,2504.16,Government Spending,1561.228,62.35,620
+1012,Portugal,2014,81.2,2537.592,Government Spending,1568.238,61.8,620
+1013,Portugal,2015,81.2,2635.56,Government Spending,1626.925,61.73,620
+1014,Portugal,2016,81.2,2815.178,Government Spending,1735.938,61.66,620
+1015,Portugal,2017,81.5,2906.395,Government Spending,1779.633,61.23,620
+1016,Portugal,2018,81.4,3152.797,Government Spending,1930.387,61.23,620
+1017,Portugal,2019,81.8,3347.429,Government Spending,2041.139,60.98,620
+1018,Portugal,2020,81.1,3308.319,Government Spending,2154.115,65.11,620
+1019,Portugal,2010,80.0,2581.404,Private Voluntary Spending,225.31,8.73,620
+1020,Portugal,2011,80.6,2457.491,Private Voluntary Spending,215.967,8.79,620
+1021,Portugal,2012,80.5,2420.857,Private Voluntary Spending,219.853,9.08,620
+1022,Portugal,2013,80.8,2504.16,Private Voluntary Spending,221.89,8.86,620
+1023,Portugal,2014,81.2,2537.592,Private Voluntary Spending,224.958,8.87,620
+1024,Portugal,2015,81.2,2635.56,Private Voluntary Spending,230.222,8.74,620
+1025,Portugal,2016,81.2,2815.178,Private Voluntary Spending,250.683,8.9,620
+1026,Portugal,2017,81.5,2906.395,Private Voluntary Spending,263.901,9.08,620
+1027,Portugal,2018,81.4,3152.797,Private Voluntary Spending,279.176,8.85,620
+1028,Portugal,2019,81.8,3347.429,Private Voluntary Spending,286.906,8.57,620
+1029,Portugal,2020,81.1,3308.319,Private Voluntary Spending,279.622,8.45,620
+1030,Portugal,2010,80.0,2581.404,Out of Pocket Spending,637.817,24.71,620
+1031,Portugal,2011,80.6,2457.491,Out of Pocket Spending,655.027,26.65,620
+1032,Portugal,2012,80.5,2420.857,Out of Pocket Spending,716.17,29.58,620
+1033,Portugal,2013,80.8,2504.16,Out of Pocket Spending,721.043,28.79,620
+1034,Portugal,2014,81.2,2537.592,Out of Pocket Spending,744.396,29.33,620
+1035,Portugal,2015,81.2,2635.56,Out of Pocket Spending,778.412,29.53,620
+1036,Portugal,2016,81.2,2815.178,Out of Pocket Spending,828.556,29.43,620
+1037,Portugal,2017,81.5,2906.395,Out of Pocket Spending,862.861,29.69,620
+1038,Portugal,2018,81.4,3152.797,Out of Pocket Spending,943.233,29.92,620
+1039,Portugal,2019,81.8,3347.429,Out of Pocket Spending,1019.384,30.45,620
+1040,Portugal,2020,81.1,3308.319,Out of Pocket Spending,874.582,26.44,620
+1041,Russian Federation,2010,69.0,1205.122,Government Spending,739.693,61.38,643
+1042,Russian Federation,2011,69.8,1204.458,Government Spending,754.6,62.65,643
+1043,Russian Federation,2012,70.2,1338.101,Government Spending,852.47,63.71,643
+1044,Russian Federation,2013,70.7,1409.719,Government Spending,879.391,62.38,643
+1045,Russian Federation,2014,70.9,1478.856,Government Spending,913.734,61.79,643
+1046,Russian Federation,2015,71.3,1433.725,Government Spending,841.862,58.72,643
+1047,Russian Federation,2016,71.8,1406.271,Government Spending,800.872,56.95,643
+1048,Russian Federation,2017,72.6,1521.0,Government Spending,868.32,57.09,643
+1049,Russian Federation,2018,72.8,1713.947,Government Spending,1019.054,59.46,643
+1050,Russian Federation,2019,73.2,1850.261,Government Spending,1131.47,61.15,643
+1051,Russian Federation,2010,69.0,1205.122,Private Voluntary Spending,39.711,3.3,643
+1052,Russian Federation,2011,69.8,1204.458,Private Voluntary Spending,38.0,3.15,643
+1053,Russian Federation,2012,70.2,1338.101,Private Voluntary Spending,38.738,2.89,643
+1054,Russian Federation,2013,70.7,1409.719,Private Voluntary Spending,39.29,2.79,643
+1055,Russian Federation,2014,70.9,1478.856,Private Voluntary Spending,35.311,2.39,643
+1056,Russian Federation,2015,71.3,1433.725,Private Voluntary Spending,37.781,2.64,643
+1057,Russian Federation,2016,71.8,1406.271,Private Voluntary Spending,36.075,2.57,643
+1058,Russian Federation,2017,72.6,1521.0,Private Voluntary Spending,36.78,2.42,643
+1059,Russian Federation,2018,72.8,1713.947,Private Voluntary Spending,38.251,2.23,643
+1060,Russian Federation,2019,73.2,1850.261,Private Voluntary Spending,42.081,2.27,643
+1061,Russian Federation,2010,69.0,1205.122,Out of Pocket Spending,425.718,35.33,643
+1062,Russian Federation,2011,69.8,1204.458,Out of Pocket Spending,411.858,34.19,643
+1063,Russian Federation,2012,70.2,1338.101,Out of Pocket Spending,446.893,33.4,643
+1064,Russian Federation,2013,70.7,1409.719,Out of Pocket Spending,491.037,34.83,643
+1065,Russian Federation,2014,70.9,1478.856,Out of Pocket Spending,529.811,35.83,643
+1066,Russian Federation,2015,71.3,1433.725,Out of Pocket Spending,554.082,38.65,643
+1067,Russian Federation,2016,71.8,1406.271,Out of Pocket Spending,569.324,40.48,643
+1068,Russian Federation,2017,72.6,1521.0,Out of Pocket Spending,615.9,40.49,643
+1069,Russian Federation,2018,72.8,1713.947,Out of Pocket Spending,656.642,38.31,643
+1070,Russian Federation,2019,73.2,1850.261,Out of Pocket Spending,676.71,36.57,643
+1071,Slovakia,2010,75.6,2012.23,Government Spending,1446.947,71.91,703
+1072,Slovakia,2011,76.1,1974.763,Government Spending,1456.987,73.78,703
+1073,Slovakia,2012,76.2,2097.4,Government Spending,1513.68,72.17,703
+1074,Slovakia,2013,76.5,2153.699,Government Spending,1598.159,74.21,703
+1075,Slovakia,2014,76.9,2010.11,Government Spending,1612.656,80.23,703
+1076,Slovakia,2015,76.7,2059.133,Government Spending,1641.461,79.72,703
+1077,Slovakia,2016,77.3,2039.611,Government Spending,1639.039,80.36,703
+1078,Slovakia,2017,77.3,1974.467,Government Spending,1578.366,79.94,703
+1079,Slovakia,2018,77.4,2049.468,Government Spending,1642.317,80.13,703
+1080,Slovakia,2019,77.8,2189.052,Government Spending,1746.719,79.79,703
+1081,Slovakia,2020,77.0,2360.359,Government Spending,1937.456,82.08,703
+1082,Slovakia,2010,75.6,2012.23,Private Voluntary Spending,106.482,5.29,703
+1083,Slovakia,2011,76.1,1974.763,Private Voluntary Spending,52.293,2.65,703
+1084,Slovakia,2012,76.2,2097.4,Private Voluntary Spending,96.43,4.6,703
+1085,Slovakia,2013,76.5,2153.699,Private Voluntary Spending,53.262,2.47,703
+1086,Slovakia,2014,76.9,2010.11,Private Voluntary Spending,35.475,1.76,703
+1087,Slovakia,2015,76.7,2059.133,Private Voluntary Spending,37.894,1.84,703
+1088,Slovakia,2016,77.3,2039.611,Private Voluntary Spending,29.489,1.45,703
+1089,Slovakia,2017,77.3,1974.467,Private Voluntary Spending,26.631,1.35,703
+1090,Slovakia,2018,77.4,2049.468,Private Voluntary Spending,19.641,0.96,703
+1091,Slovakia,2019,77.8,2189.052,Private Voluntary Spending,22.925,1.05,703
+1092,Slovakia,2020,77.0,2360.359,Private Voluntary Spending,21.91799227,0.93,703
+1093,Slovakia,2010,75.6,2012.23,Out of Pocket Spending,458.801,22.8,703
+1094,Slovakia,2011,76.1,1974.763,Out of Pocket Spending,465.483,23.57,703
+1095,Slovakia,2012,76.2,2097.4,Out of Pocket Spending,487.291,23.23,703
+1096,Slovakia,2013,76.5,2153.699,Out of Pocket Spending,502.278,23.32,703
+1097,Slovakia,2014,76.9,2010.11,Out of Pocket Spending,361.979,18.01,703
+1098,Slovakia,2015,76.7,2059.133,Out of Pocket Spending,379.778,18.44,703
+1099,Slovakia,2016,77.3,2039.611,Out of Pocket Spending,371.083,18.19,703
+1100,Slovakia,2017,77.3,1974.467,Out of Pocket Spending,369.471,18.71,703
+1101,Slovakia,2018,77.4,2049.468,Out of Pocket Spending,387.51,18.91,703
+1102,Slovakia,2019,77.8,2189.052,Out of Pocket Spending,419.408,19.16,703
+1103,Slovakia,2020,77.0,2360.359,Out of Pocket Spending,400.9850077,16.99,703
+1104,Slovenia,2010,79.8,2320.576,Government Spending,1703.712,73.42,705
+1105,Slovenia,2011,80.1,2376.64,Government Spending,1744.968,73.42,705
+1106,Slovenia,2012,80.2,2431.002,Government Spending,1749.262,71.96,705
+1107,Slovenia,2013,80.4,2495.283,Government Spending,1781.012,71.38,705
+1108,Slovenia,2014,81.2,2499.108,Government Spending,1777.21,71.11,705
+1109,Slovenia,2015,80.9,2579.283,Government Spending,1852.092,71.81,705
+1110,Slovenia,2016,81.3,2738.224,Government Spending,1991.463,72.73,705
+1111,Slovenia,2017,81.1,2832.646,Government Spending,2045.078,72.2,705
+1112,Slovenia,2018,81.5,3060.734,Government Spending,2228.9,72.82,705
+1113,Slovenia,2019,81.6,3303.471,Government Spending,2404.424,72.78,705
+1114,Slovenia,2020,80.6,3629.96,Government Spending,2728.896,75.18,705
+1115,Slovenia,2010,79.8,2320.576,Private Voluntary Spending,323.539,13.94,705
+1116,Slovenia,2011,80.1,2376.64,Private Voluntary Spending,341.802,14.38,705
+1117,Slovenia,2012,80.2,2431.002,Private Voluntary Spending,378.837,15.58,705
+1118,Slovenia,2013,80.4,2495.283,Private Voluntary Spending,403.486,16.17,705
+1119,Slovenia,2014,81.2,2499.108,Private Voluntary Spending,397.427,15.9,705
+1120,Slovenia,2015,80.9,2579.283,Private Voluntary Spending,405.535,15.72,705
+1121,Slovenia,2016,81.3,2738.224,Private Voluntary Spending,418.693,15.29,705
+1122,Slovenia,2017,81.1,2832.646,Private Voluntary Spending,438.516,15.48,705
+1123,Slovenia,2018,81.5,3060.734,Private Voluntary Spending,465.11,15.2,705
+1124,Slovenia,2019,81.6,3303.471,Private Voluntary Spending,513.821,15.55,705
+1125,Slovenia,2020,80.6,3629.96,Private Voluntary Spending,517.107,14.25,705
+1126,Slovenia,2010,79.8,2320.576,Out of Pocket Spending,293.325,12.64,705
+1127,Slovenia,2011,80.1,2376.64,Out of Pocket Spending,289.87,12.2,705
+1128,Slovenia,2012,80.2,2431.002,Out of Pocket Spending,302.902,12.46,705
+1129,Slovenia,2013,80.4,2495.283,Out of Pocket Spending,310.784,12.45,705
+1130,Slovenia,2014,81.2,2499.108,Out of Pocket Spending,324.47,12.98,705
+1131,Slovenia,2015,80.9,2579.283,Out of Pocket Spending,321.656,12.47,705
+1132,Slovenia,2016,81.3,2738.224,Out of Pocket Spending,328.067,11.98,705
+1133,Slovenia,2017,81.1,2832.646,Out of Pocket Spending,349.051,12.32,705
+1134,Slovenia,2018,81.5,3060.734,Out of Pocket Spending,366.724,11.98,705
+1135,Slovenia,2019,81.6,3303.471,Out of Pocket Spending,385.226,11.66,705
+1136,Slovenia,2020,80.6,3629.96,Out of Pocket Spending,383.957,10.58,705
+1137,South Africa,2010,57.7,861.163,Government Spending,351.804,40.85,710
+1138,South Africa,2011,59.0,915.984,Government Spending,389.333,42.5,710
+1139,South Africa,2012,60.1,969.734,Government Spending,420.253,43.34,710
+1140,South Africa,2013,61.2,993.766,Government Spending,429.388,43.21,710
+1141,South Africa,2014,62.0,1024.529,Government Spending,440.271,42.97,710
+1142,South Africa,2015,62.7,1063.803,Government Spending,454.323,42.71,710
+1143,South Africa,2016,63.2,1056.591,Government Spending,453.446,42.92,710
+1144,South Africa,2017,63.6,1072.354,Government Spending,458.801,42.78,710
+1145,South Africa,2018,63.9,1103.532,Government Spending,475.648,43.1,710
+1146,South Africa,2010,57.7,861.163,Private Voluntary Spending,436.105,50.64,710
+1147,South Africa,2011,59.0,915.984,Private Voluntary Spending,449.719,49.1,710
+1148,South Africa,2012,60.1,969.734,Private Voluntary Spending,470.725,48.54,710
+1149,South Africa,2013,61.2,993.766,Private Voluntary Spending,484.229,48.73,710
+1150,South Africa,2014,62.0,1024.529,Private Voluntary Spending,503.264,49.12,710
+1151,South Africa,2015,62.7,1063.803,Private Voluntary Spending,527.583,49.59,710
+1152,South Africa,2016,63.2,1056.591,Private Voluntary Spending,521.272,49.34,710
+1153,South Africa,2017,63.6,1072.354,Private Voluntary Spending,530.264,49.45,710
+1154,South Africa,2018,63.9,1103.532,Private Voluntary Spending,542.639,49.17,710
+1155,South Africa,2010,57.7,861.163,Out of Pocket Spending,73.255,8.51,710
+1156,South Africa,2011,59.0,915.984,Out of Pocket Spending,76.932,8.4,710
+1157,South Africa,2012,60.1,969.734,Out of Pocket Spending,78.755,8.12,710
+1158,South Africa,2013,61.2,993.766,Out of Pocket Spending,80.148,8.07,710
+1159,South Africa,2014,62.0,1024.529,Out of Pocket Spending,80.994,7.91,710
+1160,South Africa,2015,62.7,1063.803,Out of Pocket Spending,81.897,7.7,710
+1161,South Africa,2016,63.2,1056.591,Out of Pocket Spending,81.872,7.75,710
+1162,South Africa,2017,63.6,1072.354,Out of Pocket Spending,83.289,7.77,710
+1163,South Africa,2018,63.9,1103.532,Out of Pocket Spending,85.244,7.72,710
+1164,Spain,2010,82.4,2738.467,Government Spending,2038.555,74.44,724
+1165,Spain,2011,82.6,2733.884,Government Spending,2008.949,73.48,724
+1166,Spain,2012,82.5,2728.731,Government Spending,1967.636,72.11,724
+1167,Spain,2013,83.2,2764.066,Government Spending,1962.65,71.01,724
+1168,Spain,2014,83.3,2857.834,Government Spending,2008.014,70.26,724
+1169,Spain,2015,82.9,3019.479,Government Spending,2153.346,71.32,724
+1170,Spain,2016,83.4,3148.584,Government Spending,2252.883,71.55,724
+1171,Spain,2017,83.4,3320.594,Government Spending,2342.078,70.53,724
+1172,Spain,2018,83.5,3443.656,Government Spending,2419.998,70.27,724
+1173,Spain,2019,83.9,3600.277,Government Spending,2542.498,70.62,724
+1174,Spain,2010,82.4,2738.467,Private Voluntary Spending,144.195,5.27,724
+1175,Spain,2011,82.6,2733.884,Private Voluntary Spending,167.429,6.12,724
+1176,Spain,2012,82.5,2728.731,Private Voluntary Spending,165.994,6.08,724
+1177,Spain,2013,83.2,2764.066,Private Voluntary Spending,171.895,6.22,724
+1178,Spain,2014,83.3,2857.834,Private Voluntary Spending,188.642,6.6,724
+1179,Spain,2015,82.9,3019.479,Private Voluntary Spending,192.862,6.39,724
+1180,Spain,2016,83.4,3148.584,Private Voluntary Spending,204.263,6.49,724
+1181,Spain,2017,83.4,3320.594,Private Voluntary Spending,240.424,7.24,724
+1182,Spain,2018,83.5,3443.656,Private Voluntary Spending,257.325,7.47,724
+1183,Spain,2019,83.9,3600.277,Private Voluntary Spending,272.505,7.57,724
+1184,Spain,2010,82.4,2738.467,Out of Pocket Spending,555.717,20.29,724
+1185,Spain,2011,82.6,2733.884,Out of Pocket Spending,557.506,20.39,724
+1186,Spain,2012,82.5,2728.731,Out of Pocket Spending,595.101,21.81,724
+1187,Spain,2013,83.2,2764.066,Out of Pocket Spending,629.521,22.78,724
+1188,Spain,2014,83.3,2857.834,Out of Pocket Spending,661.178,23.14,724
+1189,Spain,2015,82.9,3019.479,Out of Pocket Spending,673.271,22.3,724
+1190,Spain,2016,83.4,3148.584,Out of Pocket Spending,691.438,21.96,724
+1191,Spain,2017,83.4,3320.594,Out of Pocket Spending,738.092,22.23,724
+1192,Spain,2018,83.5,3443.656,Out of Pocket Spending,766.333,22.25,724
+1193,Spain,2019,83.9,3600.277,Out of Pocket Spending,785.273,21.81,724
+1194,Sweden,2010,81.6,3432.817,Government Spending,2831.671,82.49,752
+1195,Sweden,2011,81.9,4459.518,Government Spending,3767.477,84.48,752
+1196,Sweden,2012,81.8,4679.652,Government Spending,3941.042,84.22,752
+1197,Sweden,2013,82.0,4731.982,Government Spending,3975.812,84.02,752
+1198,Sweden,2014,82.3,4865.516,Government Spending,4088.408,84.03,752
+1199,Sweden,2015,82.3,5004.128,Government Spending,4201.516,83.96,752
+1200,Sweden,2016,82.4,5127.574,Government Spending,4320.614,84.26,752
+1201,Sweden,2017,82.5,5219.41,Government Spending,4421.192,84.71,752
+1202,Sweden,2018,82.6,5456.547,Government Spending,4626.312,84.78,752
+1203,Sweden,2019,83.2,5551.937,Government Spending,4712.743,84.88,752
+1204,Sweden,2020,82.5,5753.559,Government Spending,4895.114,85.08,752
+1205,Sweden,2010,81.6,3432.817,Private Voluntary Spending,38.899,1.13,752
+1206,Sweden,2011,81.9,4459.518,Private Voluntary Spending,42.974,0.96,752
+1207,Sweden,2012,81.8,4679.652,Private Voluntary Spending,45.559,0.97,752
+1208,Sweden,2013,82.0,4731.982,Private Voluntary Spending,49.629,1.05,752
+1209,Sweden,2014,82.3,4865.516,Private Voluntary Spending,51.224,1.05,752
+1210,Sweden,2015,82.3,5004.128,Private Voluntary Spending,56.857,1.14,752
+1211,Sweden,2016,82.4,5127.574,Private Voluntary Spending,63.878,1.25,752
+1212,Sweden,2017,82.5,5219.41,Private Voluntary Spending,62.98,1.21,752
+1213,Sweden,2018,82.6,5456.547,Private Voluntary Spending,68.565,1.26,752
+1214,Sweden,2019,83.2,5551.937,Private Voluntary Spending,68.786,1.24,752
+1215,Sweden,2020,82.5,5753.559,Private Voluntary Spending,72.516,1.26,752
+1216,Sweden,2010,81.6,3432.817,Out of Pocket Spending,562.247,16.38,752
+1217,Sweden,2011,81.9,4459.518,Out of Pocket Spending,649.067,14.55,752
+1218,Sweden,2012,81.8,4679.652,Out of Pocket Spending,693.051,14.81,752
+1219,Sweden,2013,82.0,4731.982,Out of Pocket Spending,706.541,14.93,752
+1220,Sweden,2014,82.3,4865.516,Out of Pocket Spending,725.884,14.92,752
+1221,Sweden,2015,82.3,5004.128,Out of Pocket Spending,745.756,14.9,752
+1222,Sweden,2016,82.4,5127.574,Out of Pocket Spending,743.082,14.49,752
+1223,Sweden,2017,82.5,5219.41,Out of Pocket Spending,735.238,14.09,752
+1224,Sweden,2018,82.6,5456.547,Out of Pocket Spending,761.67,13.96,752
+1225,Sweden,2019,83.2,5551.937,Out of Pocket Spending,770.408,13.88,752
+1226,Sweden,2020,82.5,5753.559,Out of Pocket Spending,785.93,13.66,752
+1227,Switzerland,2010,82.6,5091.676,Government Spending,3273.273,64.29,756
+1228,Switzerland,2011,82.8,5259.578,Government Spending,3408.548,64.81,756
+1229,Switzerland,2012,82.8,5565.319,Government Spending,3682.502,66.17,756
+1230,Switzerland,2013,82.9,5923.911,Government Spending,3966.814,66.96,756
+1231,Switzerland,2014,83.3,6158.682,Government Spending,4070.169,66.09,756
+1232,Switzerland,2015,83.0,6465.885,Government Spending,4282.432,66.23,756
+1233,Switzerland,2016,83.7,6808.027,Government Spending,4456.937,65.47,756
+1234,Switzerland,2017,83.6,6866.474,Government Spending,4522.947,65.87,756
+1235,Switzerland,2018,83.8,6978.086,Government Spending,4585.412,65.71,756
+1236,Switzerland,2019,84.0,7138.064,Government Spending,4765.671,66.76,756
+1237,Switzerland,2010,82.6,5091.676,Private Voluntary Spending,484.991,9.53,756
+1238,Switzerland,2011,82.8,5259.578,Private Voluntary Spending,502.192,9.55,756
+1239,Switzerland,2012,82.8,5565.319,Private Voluntary Spending,443.326,7.97,756
+1240,Switzerland,2013,82.9,5923.911,Private Voluntary Spending,466.471,7.87,756
+1241,Switzerland,2014,83.3,6158.682,Private Voluntary Spending,485.001,7.88,756
+1242,Switzerland,2015,83.0,6465.885,Private Voluntary Spending,511.495,7.91,756
+1243,Switzerland,2016,83.7,6808.027,Private Voluntary Spending,542.053,7.96,756
+1244,Switzerland,2017,83.6,6866.474,Private Voluntary Spending,530.373,7.72,756
+1245,Switzerland,2018,83.8,6978.086,Private Voluntary Spending,542.145,7.77,756
+1246,Switzerland,2019,84.0,7138.064,Private Voluntary Spending,566.949,7.94,756
+1247,Switzerland,2010,82.6,5091.676,Out of Pocket Spending,1333.412,26.19,756
+1248,Switzerland,2011,82.8,5259.578,Out of Pocket Spending,1348.838,25.65,756
+1249,Switzerland,2012,82.8,5565.319,Out of Pocket Spending,1439.49,25.87,756
+1250,Switzerland,2013,82.9,5923.911,Out of Pocket Spending,1490.627,25.16,756
+1251,Switzerland,2014,83.3,6158.682,Out of Pocket Spending,1603.512,26.04,756
+1252,Switzerland,2015,83.0,6465.885,Out of Pocket Spending,1671.958,25.86,756
+1253,Switzerland,2016,83.7,6808.027,Out of Pocket Spending,1809.037,26.57,756
+1254,Switzerland,2017,83.6,6866.474,Out of Pocket Spending,1813.154,26.41,756
+1255,Switzerland,2018,83.8,6978.086,Out of Pocket Spending,1850.528,26.52,756
+1256,Switzerland,2019,84.0,7138.064,Out of Pocket Spending,1805.443,25.29,756
+1257,Turkey,2010,74.3,844.042,Government Spending,658.349,78.0,792
+1258,Turkey,2011,74.6,888.309,Government Spending,702.909,79.13,792
+1259,Turkey,2012,74.6,894.741,Government Spending,708.381,79.17,792
+1260,Turkey,2013,78.0,947.74,Government Spending,742.558,78.35,792
+1261,Turkey,2014,78.0,1006.772,Government Spending,781.307,77.61,792
+1262,Turkey,2015,78.0,1040.108,Government Spending,812.677,78.13,792
+1263,Turkey,2016,78.0,1128.754,Government Spending,885.419,78.44,792
+1264,Turkey,2017,78.1,1175.655,Government Spending,913.609,77.71,792
+1265,Turkey,2018,78.3,1214.124,Government Spending,939.517,77.38,792
+1266,Turkey,2019,78.6,1266.935,Government Spending,987.177,77.92,792
+1267,Turkey,2010,74.3,844.042,Private Voluntary Spending,43.289,5.13,792
+1268,Turkey,2011,74.6,888.309,Private Voluntary Spending,44.202,4.98,792
+1269,Turkey,2012,74.6,894.741,Private Voluntary Spending,43.81,4.9,792
+1270,Turkey,2013,78.0,947.74,Private Voluntary Spending,44.761,4.72,792
+1271,Turkey,2014,78.0,1006.772,Private Voluntary Spending,47.014,4.67,792
+1272,Turkey,2015,78.0,1040.108,Private Voluntary Spending,51.151,4.92,792
+1273,Turkey,2016,78.0,1128.754,Private Voluntary Spending,57.473,5.09,792
+1274,Turkey,2017,78.1,1175.655,Private Voluntary Spending,57.669,4.91,792
+1275,Turkey,2018,78.3,1214.124,Private Voluntary Spending,62.24,5.13,792
+1276,Turkey,2019,78.6,1266.935,Private Voluntary Spending,65.774,5.19,792
+1277,Turkey,2010,74.3,844.042,Out of Pocket Spending,142.405,16.87,792
+1278,Turkey,2011,74.6,888.309,Out of Pocket Spending,141.198,15.9,792
+1279,Turkey,2012,74.6,894.741,Out of Pocket Spending,142.55,15.93,792
+1280,Turkey,2013,78.0,947.74,Out of Pocket Spending,160.421,16.93,792
+1281,Turkey,2014,78.0,1006.772,Out of Pocket Spending,178.451,17.73,792
+1282,Turkey,2015,78.0,1040.108,Out of Pocket Spending,176.281,16.95,792
+1283,Turkey,2016,78.0,1128.754,Out of Pocket Spending,185.862,16.47,792
+1284,Turkey,2017,78.1,1175.655,Out of Pocket Spending,204.377,17.38,792
+1285,Turkey,2018,78.3,1214.124,Out of Pocket Spending,212.368,17.49,792
+1286,Turkey,2019,78.6,1266.935,Out of Pocket Spending,213.983,16.89,792
+1287,United Kingdom,2010,80.6,3390.106,Government Spending,2770.067,81.71,826
+1288,United Kingdom,2011,81.0,3452.396,Government Spending,2810.593,81.41,826
+1289,United Kingdom,2012,81.0,3587.437,Government Spending,2895.216,80.7,826
+1290,United Kingdom,2013,81.1,3691.039,Government Spending,2928.099,79.33,826
+1291,United Kingdom,2014,81.4,3779.517,Government Spending,3002.754,79.45,826
+1292,United Kingdom,2015,81.0,3831.743,Government Spending,3041.224,79.37,826
+1293,United Kingdom,2016,81.2,3988.944,Government Spending,3174.731,79.59,826
+1294,United Kingdom,2017,81.3,4096.018,Government Spending,3230.649,78.87,826
+1295,United Kingdom,2018,81.3,4288.654,Government Spending,3366.65,78.5,826
+1296,United Kingdom,2019,81.4,4500.141,Government Spending,3533.211,78.51,826
+1297,United Kingdom,2020,80.4,5267.705,Government Spending,4306.017,81.74,826
+1298,United Kingdom,2010,80.6,3390.106,Private Voluntary Spending,180.836,5.33,826
+1299,United Kingdom,2011,81.0,3452.396,Private Voluntary Spending,187.961,5.44,826
+1300,United Kingdom,2012,81.0,3587.437,Private Voluntary Spending,196.242,5.47,826
+1301,United Kingdom,2013,81.1,3691.039,Private Voluntary Spending,202.468,5.49,826
+1302,United Kingdom,2014,81.4,3779.517,Private Voluntary Spending,203.932,5.4,826
+1303,United Kingdom,2015,81.0,3831.743,Private Voluntary Spending,206.753,5.4,826
+1304,United Kingdom,2016,81.2,3988.944,Private Voluntary Spending,200.919,5.04,826
+1305,United Kingdom,2017,81.3,4096.018,Private Voluntary Spending,221.445,5.41,826
+1306,United Kingdom,2018,81.3,4288.654,Private Voluntary Spending,240.982,5.62,826
+1307,United Kingdom,2019,81.4,4500.141,Private Voluntary Spending,252.655,5.61,826
+1308,United Kingdom,2020,80.4,5267.705,Private Voluntary Spending,232.593,4.42,826
+1309,United Kingdom,2010,80.6,3390.106,Out of Pocket Spending,439.203,12.96,826
+1310,United Kingdom,2011,81.0,3452.396,Out of Pocket Spending,453.843,13.15,826
+1311,United Kingdom,2012,81.0,3587.437,Out of Pocket Spending,495.98,13.83,826
+1312,United Kingdom,2013,81.1,3691.039,Out of Pocket Spending,560.472,15.18,826
+1313,United Kingdom,2014,81.4,3779.517,Out of Pocket Spending,572.831,15.16,826
+1314,United Kingdom,2015,81.0,3831.743,Out of Pocket Spending,583.766,15.23,826
+1315,United Kingdom,2016,81.2,3988.944,Out of Pocket Spending,613.294,15.37,826
+1316,United Kingdom,2017,81.3,4096.018,Out of Pocket Spending,643.924,15.72,826
+1317,United Kingdom,2018,81.3,4288.654,Out of Pocket Spending,681.021,15.88,826
+1318,United Kingdom,2019,81.4,4500.141,Out of Pocket Spending,714.274,15.87,826
+1319,United Kingdom,2020,80.4,5267.705,Out of Pocket Spending,729.095,13.84,826
+1320,United States,2010,78.6,7880.441,Government Spending,3838.124,48.7,840
+1321,United States,2011,78.7,8080.919,Government Spending,3943.476,48.8,840
+1322,United States,2012,78.8,8348.239,Government Spending,4067.853,48.73,840
+1323,United States,2013,78.8,8533.098,Government Spending,4215.379,49.4,840
+1324,United States,2014,78.9,8949.855,Government Spending,7388.871,82.56,840
+1325,United States,2015,78.7,9399.188,Government Spending,7777.652,82.75,840
+1326,United States,2016,78.7,9777.261,Government Spending,8079.658,82.64,840
+1327,United States,2017,78.6,10106.176,Government Spending,8349.313,82.62,840
+1328,United States,2018,78.7,10528.48,Government Spending,8714.817,82.77,840
+1329,United States,2019,78.9,10948.475,Government Spending,9053.844,82.7,840
+1330,United States,2010,78.6,7880.441,Private Voluntary Spending,3067.936,38.93,840
+1331,United States,2011,78.7,8080.919,Private Voluntary Spending,3141.705,38.88,840
+1332,United States,2012,78.8,8348.239,Private Voluntary Spending,3250.971,38.94,840
+1333,United States,2013,78.8,8533.098,Private Voluntary Spending,3272.096,38.35,840
+1334,United States,2014,78.9,8949.855,Private Voluntary Spending,493.07,5.51,840
+1335,United States,2015,78.7,9399.188,Private Voluntary Spending,518.078,5.51,840
+1336,United States,2016,78.7,9777.261,Private Voluntary Spending,560.315,5.73,840
+1337,United States,2017,78.6,10106.176,Private Voluntary Spending,604.566,5.98,840
+1338,United States,2018,78.7,10528.48,Private Voluntary Spending,623.568,5.92,840
+1339,United States,2019,78.9,10948.475,Private Voluntary Spending,656.186,5.99,840
+1340,United States,2010,78.6,7880.441,Out of Pocket Spending,974.382,12.36,840
+1341,United States,2011,78.7,8080.919,Out of Pocket Spending,995.738,12.32,840
+1342,United States,2012,78.8,8348.239,Out of Pocket Spending,1029.416,12.33,840
+1343,United States,2013,78.8,8533.098,Out of Pocket Spending,1045.623,12.25,840
+1344,United States,2014,78.9,8949.855,Out of Pocket Spending,1067.915,11.93,840
+1345,United States,2015,78.7,9399.188,Out of Pocket Spending,1103.458,11.74,840
+1346,United States,2016,78.7,9777.261,Out of Pocket Spending,1137.288,11.63,840
+1347,United States,2017,78.6,10106.176,Out of Pocket Spending,1152.297,11.4,840
+1348,United States,2018,78.7,10528.48,Out of Pocket Spending,1190.096,11.3,840
+1349,United States,2019,78.9,10948.475,Out of Pocket Spending,1238.445,11.31,840
